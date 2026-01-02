@@ -273,3 +273,18 @@ This is a personal project. Adapt and use as needed for your job search!
 ---
 
 Built with Claude 3.5 Sonnet | Phase 1 Complete
+
+## Security & Privacy
+
+**Important:** This repository does NOT include personal data files:
+- `data/profile.json` - Your personal career data (gitignored)
+- `.env` - Your API keys (gitignored)
+- Downloaded documents from your Downloads folder
+
+**First-time setup:**
+1. Copy `data/profile.json.example` to `data/profile.json`
+2. Copy `.env.example` to `.env` and add your Claude API key
+3. Add your career documents to the monitored folder
+4. The scanner will automatically populate your profile
+
+Your personal information stays local and is never committed to the repository.

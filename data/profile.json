@@ -1,0 +1,3923 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-01-02T10:07:27.311410",
+    "total_documents_processed": 257
+  },
+  "personal_info": {
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "phone": "(555) 123-4567",
+    "location": "San Francisco, CA",
+    "linkedin": "linkedin.com/in/johndoe",
+    "github": "github.com/johndoe",
+    "portfolio": "url or null"
+  },
+  "work_experience": [
+    {
+      "company": "Tech Innovations Inc.",
+      "role": "Senior Software Engineer",
+      "start_date": "2021-06",
+      "end_date": null,
+      "is_current": true,
+      "location": "San Francisco, CA",
+      "responsibilities": [
+        "Led development of microservices architecture serving 1M+ users",
+        "Designed and implemented RESTful APIs using Python FastAPI",
+        "Reduced system latency by 40% through caching optimization",
+        "Mentored team of 3 junior developers on best practices"
+      ],
+      "achievements": [
+        "Led development of microservices architecture serving 1M+ users",
+        "Reduced system latency by 40% through caching optimization"
+      ],
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS"
+      ],
+      "id": "3a0035a3-d950-4240-91f8-35cf5914d606",
+      "extracted_date": "2026-01-01T12:24:15.678849"
+    },
+    {
+      "company": "StartupXYZ",
+      "role": "Software Engineer",
+      "start_date": "2019-01",
+      "end_date": "2021-05",
+      "is_current": false,
+      "location": "Remote",
+      "responsibilities": [
+        "Built full-stack e-commerce platform from scratch",
+        "Implemented payment processing with Stripe API",
+        "Developed responsive React frontend with modern UI/UX",
+        "Set up CI/CD pipeline reducing deployment time by 60%"
+      ],
+      "achievements": [
+        "Built full-stack e-commerce platform from scratch",
+        "Set up CI/CD pipeline reducing deployment time by 60%"
+      ],
+      "technologies": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Jenkins"
+      ],
+      "id": "130f04e8-2d28-4920-9996-f197637bdea1",
+      "extracted_date": "2026-01-01T12:24:15.678883"
+    },
+    {
+      "company": "Company Name",
+      "role": "Job Title",
+      "start_date": "YYYY-MM",
+      "end_date": "YYYY-MM or null",
+      "is_current": false,
+      "location": "City, State/Country",
+      "responsibilities": [
+        "responsibility 1",
+        "responsibility 2"
+      ],
+      "achievements": [
+        "achievement 1",
+        "achievement 2"
+      ],
+      "technologies": [
+        "tech1",
+        "tech2"
+      ],
+      "id": "556ddb63-c895-406b-bd1a-09a302460295",
+      "extracted_date": "2026-01-02T09:28:06.883285"
+    },
+    {
+      "company": "Epinex Diagnostics, Inc.",
+      "role": "Confidential",
+      "start_date": null,
+      "end_date": null,
+      "is_current": true,
+      "location": "Tustin, CA, USA",
+      "responsibilities": [],
+      "achievements": [],
+      "technologies": [],
+      "id": "37084195-b525-4991-8fc7-f3ab1ff050eb",
+      "extracted_date": "2026-01-02T09:28:37.619605"
+    },
+    {
+      "company": "Company Name",
+      "role": "Undergraduate Researcher",
+      "start_date": "2022-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Effectively incorporated into projects from two PhD students",
+        "Developed and applied a rich experimental skillset ranging from wet-lab experiments to data analysis using custom scripts",
+        "Contributed to co-author publications with graduate students",
+        "Gained substantial experience processing tissues and conducting wet-lab experiments",
+        "Mastered skills such as brain section, immunostaining, brain slice mounting, and imaging to produce impactful results",
+        "Gained experience handling mice, degu, dog, and large macaque brain samples",
+        "Contributed to a study looking at connectivity alterations in the subiculum of the Alzheimer's disease mouse model",
+        "Contributed to a project looking at the Octodon degus (degu) as an unconventional animal model that naturally manifests Alzheimer's disease-like pathology",
+        "Focused on amyloid-\u00df plaque load quantification in degus exhibiting different Apoe genetic variants",
+        "Leads the 3D printing portion of a project investigating cerebral amyloid angiopathy and the associated astrocyte neuroinflammation in young and aged degus",
+        "Contributed to a project conducting in vivo behavior experiments on miniscope-implanted mice, using MATLAB and DeepLabCut for data processing and analysis"
+      ],
+      "achievements": [
+        "Co-author publication in the Journal of Neuroscience",
+        "Co-author publication in Frontiers in Neuroscience",
+        "Awarded a $3,000 UROP/Calit2 Interdisciplinary Research Teams award"
+      ],
+      "technologies": [
+        "MATLAB",
+        "DeepLabCut",
+        "3D printing",
+        "Wet-lab experiments",
+        "Immunostaining",
+        "Brain imaging",
+        "Animal handling"
+      ],
+      "id": "237e5f36-af86-4c61-9714-d7ad5dc88237",
+      "extracted_date": "2026-01-02T09:28:57.846042"
+    },
+    {
+      "company": "Xiangmin Xu's Lab",
+      "role": "Undergraduate Researcher",
+      "start_date": "2022-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Conducted wet-lab experiments including tissue processing, immunostaining, brain slice mounting, and imaging",
+        "Contributed to projects using diverse animal models including mice, degu, dog, and macaque",
+        "Focused on Alzheimer's disease research, including examining connectivity alterations in the subiculum of the 5xFAD mouse model",
+        "Processed, immunostained, and quantified degu brains to study amyloid-\u00df plaque load in relation to Apoe genetic variants",
+        "Assisted with immunostaining, quantifying perineuronal net densities, and conducting neuronal cell counts for a degu project investigating plasticity in the forebrain",
+        "Developed coding skills for in vivo calcium imaging with miniscopes, including tracking mouse movements and analyzing complex datasets"
+      ],
+      "achievements": [
+        "Co-author on a paper published in the Journal of Neuroscience",
+        "Expected to be a co-author on a major degu publication",
+        "Awarded a $3,000 UROP/Calit2 Interdisciplinary Research Teams grant for a project on cerebral amyloid angiopathy and astrocyte neuroinflammation in degu brains",
+        "Designed and 3D printed netwell carriers for immunostaining experiments, saving the lab from purchasing costly commercial alternatives"
+      ],
+      "technologies": [
+        "MATLAB",
+        "DeepLabCut",
+        "Calcium imaging",
+        "Brain sectioning",
+        "Immunostaining",
+        "Microscopy",
+        "Data analysis"
+      ],
+      "id": "8aeba2c7-58f1-407f-8998-0ab8fd44f529",
+      "extracted_date": "2026-01-02T09:29:06.927538"
+    },
+    {
+      "company": "Company Name",
+      "role": "Biomedical Engineer",
+      "start_date": "2019-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "null",
+      "responsibilities": [
+        "Integrate advanced experimental techniques into biological research",
+        "Streamline workflows and improve experimental outcomes",
+        "Work closely with biologists and engineers",
+        "Develop scalable platforms for analyzing and predicting neuronal activity through Matlab and machine learning applications",
+        "Design 3D printed custom hardware for unique experimental challenges"
+      ],
+      "achievements": [
+        "Co-authored two published journal articles examining plasticity and the neurobiology of disease in the mammalian brain",
+        "Demonstrated ability to address challenges with creative, practical solutions"
+      ],
+      "technologies": [
+        "Matlab",
+        "Machine learning",
+        "DeepLabCut",
+        "Motion Sequencing",
+        "3D printing"
+      ],
+      "id": "67e72fe9-d42f-457e-b127-e6bbc62fa898",
+      "extracted_date": "2026-01-02T09:30:30.367944"
+    },
+    {
+      "company": "UC Irvine School of Medicine, Xu Lab",
+      "role": "Student Research Manager",
+      "start_date": "2025-03",
+      "end_date": "2025-06",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Designed and fabricated 5+ 3D printed and machined components to increase imaging resolution, experimental throughput and protocol reproducibility across 4 studies.",
+        "Evaluated materials for strength, thermal stability, and biocompatibility, ensuring integration with precision equipment.",
+        "Trained undergraduate researchers in 3D printing, machining, and hardware assembly, improving equipment deployment consistency and adherence to lab SOPs.",
+        "Conducted preliminary research on MoSeq for behavior classification; initiated early design and build of sensor-integrated arenas for autonomous analysis."
+      ],
+      "achievements": [],
+      "technologies": [
+        "3D Printing (SLA, FDM)",
+        "Machining",
+        "Material Evaluation"
+      ],
+      "id": "105f679d-f6cf-4dc3-a42a-df661f201b4d",
+      "extracted_date": "2026-01-02T09:31:52.011097"
+    },
+    {
+      "company": "UC Irvine Samueli School of Engineering",
+      "role": "Research and Development Engineer",
+      "start_date": "2024-09",
+      "end_date": "2025-06",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Designed microfluidic components for a cartridge targeting glycated albumin, optimizing channel geometry for improved mixing efficiency.",
+        "Prototyped microfluidic components and modular housings using CNC machining, laser cutting, and 3D printing (SLA, FDM) for iterative design validation.",
+        "Conducted failure mode testing for fluidic throughput, reagent mixing efficiency, and thermal cycle consistency under simulated operating conditions, resulting in improved homogenization and device reliability.",
+        "Ensured regulatory compliance and data quality by maintaining detailed documentation of test data, verification results, and design changes."
+      ],
+      "achievements": [],
+      "technologies": [
+        "Microfluidics",
+        "CNC Machining",
+        "Laser Cutting",
+        "3D Printing (SLA, FDM)",
+        "Failure Mode Analysis",
+        "Regulatory Compliance"
+      ],
+      "id": "c7b3ca5b-8c5c-4e9f-8de5-2f1258e6e57d",
+      "extracted_date": "2026-01-02T09:31:52.011167"
+    },
+    {
+      "company": "UC Irvine Samueli School of Engineering",
+      "role": "Undergraduate Teaching Assistant",
+      "start_date": "2022-06",
+      "end_date": "2025-03",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Guided 12+ teams in the hands-on design and deployment of autonomous rovers with image detection and line tracking capabilities over a two-quarter course.",
+        "Instructed 60+ students in SOLIDWORKS, C++, and Arduino, driving the design and implementation of microcontroller-driven systems, PID control, and multi-sensor integration via I2C protocols.",
+        "Managed hardware/software timelines across multi-quarter project cycles and designed curriculum introducing principles of electronics prototyping, hardware design, and autonomous systems."
+      ],
+      "achievements": [],
+      "technologies": [
+        "SOLIDWORKS",
+        "C++",
+        "Arduino",
+        "Microcontroller Systems",
+        "PID Control",
+        "I2C Protocols",
+        "Autonomous Systems"
+      ],
+      "id": "6ffdf3a7-a0a3-46e1-b6f8-b191439b25d0",
+      "extracted_date": "2026-01-02T09:31:52.011232"
+    },
+    {
+      "company": "UC Irvine School of Medicine, Xu Lab",
+      "role": "Undergraduate Research Assistant",
+      "start_date": "2022-06",
+      "end_date": "2025-03",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led processing and analysis of brain samples to investigate the mechanisms of Alzheimer's disease, managing collaboration between biology and engineering undergraduates.",
+        "Integrated machine learning algorithms into a MATLAB-based behavior extraction pipeline, reducing processing time by 90%+ and improving reproducibility of neural analysis.",
+        "Designed custom head-mounted imaging hardware for behavioral analysis, improving usability and stability across 30+ in-person data collection sessions.",
+        "Authored technical protocols, SOPs, and visual demonstration materials for lab-wide implementation of machine learning-based behavioral data analysis pipelines in MATLAB and Python."
+      ],
+      "achievements": [],
+      "technologies": [
+        "MATLAB",
+        "Python",
+        "Machine Learning",
+        "Behavioral Analysis",
+        "Hardware Design"
+      ],
+      "id": "82df159c-65b6-4f74-ba18-bdca68b25372",
+      "extracted_date": "2026-01-02T09:31:52.011281"
+    },
+    {
+      "company": "Company Name",
+      "role": "Lead designer/developer",
+      "start_date": null,
+      "end_date": null,
+      "is_current": true,
+      "location": null,
+      "responsibilities": [],
+      "achievements": [],
+      "technologies": [
+        "Project management/strategic planning",
+        "fabrication (machining, laser cutting, 3D printing)",
+        "CAD",
+        "programming (Arduino IDE, matlab, python)",
+        "documentation"
+      ],
+      "id": "ae515526-78ed-404d-afac-a94bc2269dd5",
+      "extracted_date": "2026-01-02T09:32:48.148736"
+    },
+    {
+      "company": "UCI Samueli School of Engineering",
+      "role": "Undergraduate Teaching Assistant",
+      "start_date": "2022-06",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Assisted in a two-quarter engineering course that introduces design principles to freshman students",
+        "Managed 3-4 classroom labs and one office hour session weekly, collaborating with students and staff to develop essential skills through engineering projects.",
+        "Mentored 90+ students in technical skills including SOLIDWORKS and Arduino IDE, driving successful design, prototyping, and fabrication of autonomous rovers and fitness trackers.",
+        "Provided hands-on guidance in C++ and Arduino IDE, enhancing electronic prototyping skills."
+      ],
+      "achievements": [],
+      "technologies": [
+        "SOLIDWORKS",
+        "Arduino IDE",
+        "C++",
+        "Arduino"
+      ],
+      "id": "b48c5e9d-ab2c-4539-ba8d-c95b7adcf77a",
+      "extracted_date": "2026-01-02T09:33:19.931427"
+    },
+    {
+      "company": "UC Irvine School of Medicine, Xu Lab",
+      "role": "Research Assistant",
+      "start_date": "2022-07",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Lead sectioning, mounting, and imaging of Alzheimer's disease rodent models, yielding insights into Alzheimer's pathology and neurobiological processes.",
+        "Facilitated in vivo behavior experiments on miniscope implanted mice, using MATLAB and DeepLabCut to extract meaningful data and enhance accuracy.",
+        "Contributed to the development of a MATLAB-based neuronal behavior extraction pipeline, integrating machine learning capabilities to streamline data processing and analysis.",
+        "Developed and optimized custom 3D printed hardware for laboratory applications, enhancing existing designs for improved functionality and precision.",
+        "Authored a protocol for the installation and use of the pose estimation tool DeepLabCut, utilized lab-wide to ensure consistent application."
+      ],
+      "achievements": [],
+      "technologies": [
+        "MATLAB",
+        "DeepLabCut",
+        "3D Printing"
+      ],
+      "id": "5f5f62f1-f8db-4591-b388-c2fd3d6ea51b",
+      "extracted_date": "2026-01-02T09:33:19.931497"
+    },
+    {
+      "company": "UC Irvine School of Medicine, Xu Lab",
+      "role": "Undergraduate Research Assistant",
+      "start_date": "2021-09",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Lead sectioning, mounting, and imaging of Alzheimer's disease mouse models, yielding insights into Alzheimer's pathology and neurobiological processes.",
+        "Facilitate in vivo behavior experiments on miniscope implanted mice, using MATLAB and DeepLabCut to extract meaningful data and enhance accuracy.",
+        "Contributed to the development of a MATLAB-based neuronal behavior extraction pipeline, integrating machine learning capabilities to streamline data processing and analysis."
+      ],
+      "achievements": [],
+      "technologies": [
+        "MATLAB",
+        "DeepLabCut"
+      ],
+      "id": "6397100b-e509-4698-baff-ea2140194446",
+      "extracted_date": "2026-01-02T09:35:11.282906"
+    },
+    {
+      "company": "UCI Henry Samueli School of Engineering",
+      "role": "Undergraduate Teaching Assistant",
+      "start_date": "2021-09",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Assist in a two-quarter engineering course that introduces design principles to 100+ freshman students",
+        "Manage 3 classroom labs weekly, collaborating with students and staff to develop essential skills through engineering projects",
+        "Mentor 12+ student groups in technical skills such as SOLIDWORKS, C++, and Arduino IDE, driving successful design and fabrication of autonomous RC rovers and fitness trackers.",
+        "Guide the exploration of CAD techniques, enabling students to create functional designs.",
+        "Provide hands-on guidance in C++ and Arduino IDE, enhancing electronic prototyping skills."
+      ],
+      "achievements": [],
+      "technologies": [
+        "SOLIDWORKS",
+        "C++",
+        "Arduino IDE"
+      ],
+      "id": "d6364989-cf34-448e-8456-a55028853d4d",
+      "extracted_date": "2026-01-02T09:35:11.283073"
+    },
+    {
+      "company": "Industry-Sponsored Design Project",
+      "role": "R&D Engineer",
+      "start_date": "2023-01",
+      "end_date": null,
+      "is_current": true,
+      "responsibilities": [
+        "Developed and tested microfluidic components for a point-of care diagnostic device",
+        "Designed modular housings and fluidic subsystems",
+        "Produced components using CNC machining, laser cutting, and FDM 3D printing",
+        "Diagnosed failure modes through thermal and flow testing"
+      ],
+      "technologies": [
+        "CNC machining",
+        "Laser cutting",
+        "FDM 3D printing",
+        "Microfluidics"
+      ],
+      "id": "733829da-e7ba-40d8-b9c0-0f993fb6bf4a",
+      "extracted_date": "2026-01-02T09:35:31.701886"
+    },
+    {
+      "company": "Student Researcher",
+      "role": "Researcher",
+      "start_date": "2021-09",
+      "end_date": "2025-06",
+      "is_current": false,
+      "responsibilities": [
+        "Led custom hardware development for imaging and experimental setups",
+        "Created custom-machined and 3D printed parts",
+        "Developed a neuronal and behavior analysis pipeline using Python and Matlab",
+        "Improved dataset processing times by over 90%",
+        "Offered a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in fabrication and equipment assembly"
+      ],
+      "technologies": [
+        "Python",
+        "Matlab",
+        "Custom hardware design",
+        "CNC machining",
+        "3D printing"
+      ],
+      "id": "3a057b50-c0d9-46fd-9cfd-c572d861e907",
+      "extracted_date": "2026-01-02T09:35:31.701954"
+    },
+    {
+      "company": "Undergraduate Robotics Course",
+      "role": "Teaching Assistant",
+      "start_date": "2022-09",
+      "end_date": "2023-06",
+      "is_current": false,
+      "responsibilities": [
+        "Mentored teams building microcontroller-driven autonomous rovers",
+        "Provided instruction in Solidworks, Arduino/C++, and multi-sensor integration"
+      ],
+      "technologies": [
+        "Solidworks",
+        "Arduino",
+        "C++",
+        "Robotics"
+      ],
+      "id": "d4545e3c-869c-4a6b-93c8-f19fca379378",
+      "extracted_date": "2026-01-02T09:35:31.702005"
+    },
+    {
+      "company": "Industry-Sponsored Design Project",
+      "role": "R&D Engineer",
+      "start_date": "2022-01",
+      "end_date": null,
+      "is_current": true,
+      "responsibilities": [
+        "Designed modular housings and fluidic subsystems for a point-of-care diagnostic device",
+        "Produced components using CNC machining, laser cutting, and FDM 3D printing",
+        "Diagnosed failure modes through thermal and flow testing"
+      ],
+      "achievements": [
+        "Led the development and testing of microfluidic components for a point-of-care diagnostic device"
+      ],
+      "technologies": [
+        "CNC machining",
+        "Laser cutting",
+        "FDM 3D printing"
+      ],
+      "id": "c2df2bce-139d-409e-be49-51c228ac7817",
+      "extracted_date": "2026-01-02T09:36:26.001553"
+    },
+    {
+      "company": "Academic Research",
+      "role": "Hardware Developer",
+      "start_date": "2022-01",
+      "end_date": null,
+      "is_current": true,
+      "responsibilities": [
+        "Led hardware development, creating custom-machined and 3D printed parts for imaging and experimental setups in multiple research studies",
+        "Led the development of a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in the fabrication and deployment of custom hardware and equipment assembly"
+      ],
+      "achievements": [
+        "Developed a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90%",
+        "Trained undergraduates and interns in the fabrication and deployment of custom hardware and equipment assembly"
+      ],
+      "technologies": [
+        "Python",
+        "Matlab",
+        "Custom hardware fabrication"
+      ],
+      "id": "7a8b58a2-e4f9-4672-8b67-1cc45d5de120",
+      "extracted_date": "2026-01-02T09:36:26.001604"
+    },
+    {
+      "company": "Undergraduate Robotics Course",
+      "role": "Teaching Assistant",
+      "start_date": "2023-01",
+      "end_date": "2023-05",
+      "is_current": false,
+      "responsibilities": [
+        "Mentored teams building microcontroller-driven autonomous rovers",
+        "Provided instruction in Solidworks, Arduino/C++, and multi-sensor integration"
+      ],
+      "achievements": [
+        "Strengthened skills in technical communication and collaborative problem solving"
+      ],
+      "technologies": [
+        "Solidworks",
+        "Arduino/C++",
+        "Multi-sensor integration"
+      ],
+      "id": "4c61db4b-d888-48a2-a856-db5d991f6d48",
+      "extracted_date": "2026-01-02T09:36:26.001642"
+    },
+    {
+      "company": "Student Researcher",
+      "role": "Lead Developer",
+      "start_date": "2021-09",
+      "end_date": "2025-06",
+      "responsibilities": [
+        "Led custom hardware development for imaging and experimental setups",
+        "Developed a neuronal and behavior analysis pipeline using Python and Matlab",
+        "Improved dataset processing times by over 90%",
+        "Offered a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in fabrication and equipment assembly"
+      ],
+      "technologies": [
+        "Python",
+        "Matlab",
+        "Custom hardware development"
+      ],
+      "id": "bd902421-1048-40bc-91a2-4dbb0504e482",
+      "extracted_date": "2026-01-02T09:36:38.980126"
+    },
+    {
+      "company": "Undergraduate robotics course",
+      "role": "Teaching assistant",
+      "start_date": "2022-01",
+      "end_date": "2022-05",
+      "is_current": false,
+      "responsibilities": [
+        "Mentored teams building microcontroller-driven autonomous rovers",
+        "Provided instruction in Solidworks, Arduino/C++, and multi-sensor integration"
+      ],
+      "technologies": [
+        "Solidworks",
+        "Arduino",
+        "C++"
+      ],
+      "id": "3a67fdf9-c29d-4130-8bc1-b80c1c548a22",
+      "extracted_date": "2026-01-02T09:36:49.037170"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "R&D Engineer",
+      "start_date": "2019-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led the development and testing of microfluidic components using CNC machining, laser cutting, and both FDM and SLA 3D printing",
+        "Diagnosed failure modes through thermal and flow testing, refining assemblies and subassemblies to meet performance requirements under simulated use-cases",
+        "Led hardware development, creating custom-machined and 3D printed parts for imaging and experimental setups in multiple research studies",
+        "Led the development of a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in the fabrication and deployment of custom hardware and assembly best practices, demonstrating ownership, mechanical intuition, and systems-level thinking"
+      ],
+      "achievements": [
+        "Improved dataset processing times by over 90% and offered a standardized method of real-time neuronal analysis lab-wide"
+      ],
+      "technologies": [
+        "CNC machining",
+        "Laser cutting",
+        "FDM 3D printing",
+        "SLA 3D printing",
+        "Python",
+        "Matlab"
+      ],
+      "id": "e5a0fd42-d8a2-494c-bb57-7230642ed582",
+      "extracted_date": "2026-01-02T09:37:25.258736"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "Teaching Assistant",
+      "start_date": "2018-09",
+      "end_date": "2019-06",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Mentored teams building microcontroller-driven autonomous rovers, providing instruction in Solidworks, Arduino/C++, and multi-sensor integration",
+        "Guided students through electronics prototyping, including soldering of components, assembling sensor arrays, and verifying circuit integrity with multimeters"
+      ],
+      "achievements": [],
+      "technologies": [
+        "Solidworks",
+        "Arduino",
+        "C++",
+        "Electronics prototyping"
+      ],
+      "id": "3ad05834-dbc5-4c1e-992e-78ddf53f649c",
+      "extracted_date": "2026-01-02T09:37:25.258817"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "R&D Engineer",
+      "start_date": "2018-01",
+      "end_date": "2021-01",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led the development and testing of microfluidic components using CNC machining, laser cutting, and both FDM and SLA 3D printing",
+        "Diagnosed failure modes through thermal and flow testing, refining assemblies and subassemblies to meet performance requirements under simulated use-cases",
+        "Led hardware development, creating custom-machined and 3D printed parts for imaging and experimental setups in multiple research studies",
+        "Led the development of a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in the fabrication and deployment of custom hardware and assembly best practices, demonstrating ownership, mechanical intuition, and systems-level thinking"
+      ],
+      "achievements": [
+        "Improved dataset processing times by over 90% and offered a standardized method of real-time neuronal analysis lab-wide",
+        "Demonstrated ownership, mechanical intuition, and systems-level thinking in training undergraduates and interns"
+      ],
+      "technologies": [
+        "CNC Machining",
+        "Laser Cutting",
+        "FDM 3D Printing",
+        "SLA 3D Printing",
+        "Python",
+        "Matlab"
+      ],
+      "id": "0e3365d9-b61b-40cd-9d03-c10dc0245484",
+      "extracted_date": "2026-01-02T09:37:33.023835"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "Teaching Assistant",
+      "start_date": "2017-09",
+      "end_date": "2018-06",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Mentored teams building microcontroller-driven autonomous rovers, providing instruction in Solidworks, Arduino/C++, and multi-sensor integration",
+        "Guided students through electronics prototyping, including soldering of components, assembling sensor arrays, and verifying circuit integrity with multimeters"
+      ],
+      "achievements": [
+        "Strengthened skills in technical communication and collaborative problem solving"
+      ],
+      "technologies": [
+        "Solidworks",
+        "Arduino",
+        "C++",
+        "Electronics Prototyping"
+      ],
+      "id": "2c474c8c-61b6-4c62-9efe-011f2ae9ac89",
+      "extracted_date": "2026-01-02T09:37:33.023941"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "Engineering Development and Rapid Prototyping Lead",
+      "start_date": "2019-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led the development and testing of microfluidic components for an industry-sponsored point-of-care diagnostic device under mission-critical constraints",
+        "Developed bespoke fixtures and positioning systems for imaging and experimental setups across multiple clinical studies, contributing to 2 peer-reviewed publications",
+        "Led the development of a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in hardware fabrication and assembly, emphasizing ergonomic design principles and operator interface considerations",
+        "Coached student teams through the complete development cycle of microcontroller-driven autonomous rovers, delivering instruction in electronics prototyping fundamentals, Solidworks mechanical design, Arduino/C++ embedded programming, and multi-sensor data fusion for autonomous navigation"
+      ],
+      "achievements": [
+        "Rapidly pivoted to in-house fabrication methods to maintain project timelines when budget limitations eliminated CNC machining of 3D microfluidic channels",
+        "Iterated over multiple channel geometries to validate a design that optimized passive mixing while maintaining flow uniformity when SLA 3D printer resolution proved insufficient for required channel tolerances"
+      ],
+      "technologies": [
+        "Hardware development",
+        "Data analysis",
+        "Electronics prototyping",
+        "Program planning",
+        "Microfluidics",
+        "3D printing",
+        "Python",
+        "Matlab",
+        "Arduino",
+        "C++",
+        "Solidworks",
+        "Autonomous systems engineering",
+        "Electronics integration"
+      ],
+      "id": "e14781d2-3ddb-47a3-833b-1871d358ca2c",
+      "extracted_date": "2026-01-02T09:37:52.166226"
+    },
+    {
+      "company": "University of California, Irvine (UCI)",
+      "role": "Teaching Assistant",
+      "start_date": "2019-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led a class of 60 students in designing microcontroller-driven unmanned ground vehicles, integrating sensors, and coding in C++/Arduino for image-detection, line-tracking, and PID-control",
+        "Taught SOLIDWORKS, electronics prototyping (soldering, circuit layout and testing), and multi-sensor fusion, fostering field-ready systems",
+        "Guided teams through full development cycles, from design to validation, sharpening technical communication and leadership skills"
+      ],
+      "achievements": [],
+      "technologies": [
+        "C++",
+        "Arduino",
+        "SOLIDWORKS",
+        "Electronics prototyping"
+      ],
+      "id": "844d9e17-1e3b-42fb-82ff-e73312d1d280",
+      "extracted_date": "2026-01-02T09:38:02.654045"
+    },
+    {
+      "company": "University of California, Irvine (UCI)",
+      "role": "Senior Capstone Project",
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "is_current": false,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Designed, prototyped, and tested a novel microfluidic delivery system for a client diagnostic device",
+        "Pivoted to alternative in-house fab methods to maintain timelines when budget limitations eliminated preferred fabrication method",
+        "Iterated over multiple channel geometries to validate a design that optimized passive mixing while maintaining flow uniformity"
+      ],
+      "achievements": [
+        "Demonstrated commercial and technical acumen in navigating mundane yet substantive hurdles of go-to-market strategy"
+      ],
+      "technologies": [
+        "3D printing",
+        "CNC machining",
+        "Microfluidics"
+      ],
+      "id": "b2859aee-8114-48ea-a3b0-cd34a498fd88",
+      "extracted_date": "2026-01-02T09:38:02.654242"
+    },
+    {
+      "company": "University of California, Irvine (UCI)",
+      "role": "Research Laboratory",
+      "start_date": "2019-01",
+      "end_date": "2022-06",
+      "is_current": false,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led customized hardware development for nonstandard subject anatomy, including creating custom-machined and 3D printed parts for degu brain imaging setups",
+        "Developed a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in hardware fabrication and assembly, emphasizing ergonomic design principles and operator interface considerations"
+      ],
+      "achievements": [
+        "Contributed to 2 peer-reviewed publications"
+      ],
+      "technologies": [
+        "3D printing",
+        "CNC machining",
+        "Python",
+        "MATLAB"
+      ],
+      "id": "49c55995-1e6a-4fb2-bf78-d7023fc98d26",
+      "extracted_date": "2026-01-02T09:38:02.654370"
+    },
+    {
+      "company": "University of California, Irvine (UCI)",
+      "role": "Teaching Assistant",
+      "start_date": "2018-01",
+      "end_date": "2021-01",
+      "is_current": false,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led a class of 60 students in designing microcontroller-driven unmanned ground vehicles, integrating sensors, and coding in C++/Arduino for image-detection, line-tracking, and PID-control",
+        "Taught SOLIDWORKS, electronics prototyping (soldering, circuit layout and testing), and multi-sensor fusion, fostering field-ready systems",
+        "Guided teams through full development cycles, from design to validation, sharpening technical communication and leadership skills"
+      ],
+      "achievements": [
+        "Deepened expertise in autonomous systems and ruggedized electronics, relevant to defense technologies like UAVs or UGVs"
+      ],
+      "technologies": [
+        "C++",
+        "Arduino",
+        "SOLIDWORKS"
+      ],
+      "id": "5649346a-7d91-4ac1-9011-02113fd2e38e",
+      "extracted_date": "2026-01-02T09:38:13.029870"
+    },
+    {
+      "company": "Research Laboratory",
+      "role": "Researcher",
+      "start_date": "2018-01",
+      "end_date": "2021-01",
+      "is_current": false,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led customized hardware development for nonstandard subject anatomy, including creating custom-machined and 3D printed parts for degu brain imaging setups",
+        "Developed a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in hardware fabrication and assembly, emphasizing ergonomic design principles and operator interface considerations"
+      ],
+      "achievements": [
+        "Contributed to 2 peer-reviewed publications",
+        "Demonstrated mechanical intuition and systems-level thinking essential for prototype development in operational environments"
+      ],
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "3D Printing",
+        "CNC Machining"
+      ],
+      "id": "0d0204b5-7a6c-4be8-93fd-c214bfa25c1f",
+      "extracted_date": "2026-01-02T09:38:13.030039"
+    },
+    {
+      "company": "Senior Capstone Project",
+      "role": "Project Lead",
+      "start_date": "2020-01",
+      "end_date": "2021-01",
+      "is_current": false,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Designed, prototyped, and tested a novel microfluidic delivery system for a client diagnostic device",
+        "Pivoted to alternative in-house fab methods to maintain timelines when budget limitations eliminated the preferred fabrication method",
+        "Iterated over multiple channel geometries to validate a design that optimized passive mixing while maintaining flow uniformity"
+      ],
+      "achievements": [
+        "Demonstrated ability to deliver functional hardware solutions through iterative design, alternative manufacturing approaches, and rigorous validation testing"
+      ],
+      "technologies": [
+        "3D Printing",
+        "CNC Machining"
+      ],
+      "id": "798a22f5-935a-4402-96e9-f08bb3cac926",
+      "extracted_date": "2026-01-02T09:38:13.030171"
+    },
+    {
+      "company": "University of California, Irvine (UCI)",
+      "role": "Research Assistant",
+      "start_date": "2018-09",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led customized hardware development for nonstandard subject anatomy, including creating custom-machined and 3D printed parts for degu brain imaging setups",
+        "Developed a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in hardware fabrication and assembly, emphasizing ergonomic design principles and operator interface considerations"
+      ],
+      "achievements": [
+        "Contributed to 2 peer-reviewed publications",
+        "Demonstrated mechanical intuition and systems-level thinking essential for prototype development in operational environments"
+      ],
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "3D printing",
+        "CNC machining",
+        "Laser cutting",
+        "SOLIDWORKS"
+      ],
+      "id": "16e1dff4-bdab-4cfa-8908-699142eddd23",
+      "extracted_date": "2026-01-02T09:38:24.667982"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "Research Assistant",
+      "start_date": "2019-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led hardware development for non-standard experimental requirements, including creating custom-machined and 3D printed parts for degu brain imaging setups",
+        "Developed a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in hardware fabrication and assembly, emphasizing ergonomic design principles and operator interface considerations",
+        "Coached student teams through the complete development cycle of microcontroller-driven autonomous rovers, delivering instruction in electronics prototyping fundamentals"
+      ],
+      "achievements": [
+        "Contributed to 2 peer-reviewed publications",
+        "Demonstrated mechanical intuition and systems-level thinking essential for fast-paced operational environments"
+      ],
+      "technologies": [
+        "Python",
+        "Matlab",
+        "Arduino/C++",
+        "Solidworks",
+        "Hardware fabrication",
+        "Electronics prototyping"
+      ],
+      "id": "6aa2be3a-d576-4033-abb8-6799de91a8bf",
+      "extracted_date": "2026-01-02T09:38:45.874399"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "Engineering Development and Rapid Prototyping Lead",
+      "start_date": "2018-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led the development and testing of microfluidic components for an industry-sponsored point-of-care diagnostic device under mission-critical constraints",
+        "Developed bespoke fixtures and positioning systems for imaging and experimental setups across multiple clinical studies, contributing to 2 peer-reviewed publications",
+        "Led the development of a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in hardware fabrication, assembly, and deployment, as well as standards of data collection and documentation required to maintain high quality R&D workflows",
+        "Managed a live animal colony, requiring routine in-person behavioral assessments, facilitating a deep understanding of protocol compliance and data quality across long experimental timelines",
+        "Coached student teams through the complete development cycle of microcontroller-driven autonomous rovers, delivering instruction in electronics prototyping fundamentals\u2014component soldering techniques, sensor array integration, and comprehensive circuit testing protocols"
+      ],
+      "achievements": [
+        "Rapidly pivoted to in-house fabrication methods to maintain project timelines when budget limitations eliminated CNC machining of 3D microfluidic channels",
+        "Iterated over multiple channel geometries to validate a design that optimized passive mixing while maintaining flow uniformity when SLA 3D printer resolution proved insufficient for required channel tolerances"
+      ],
+      "technologies": [
+        "Hardware development",
+        "Data analysis",
+        "Electronics prototyping",
+        "Research program planning",
+        "Microfluidics",
+        "3D printing",
+        "Python",
+        "MATLAB",
+        "Solidworks",
+        "Arduino/C++",
+        "Autonomous systems engineering",
+        "Electronics integration"
+      ],
+      "id": "cb26e7c2-b774-43d9-97de-dd2076516283",
+      "extracted_date": "2026-01-02T09:39:55.411062"
+    },
+    {
+      "company": "University of California, Irvine (UCI)",
+      "role": "Teaching Assistant",
+      "start_date": "2019-09",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led a class of 60 students in designing microcontroller-driven unmanned ground vehicles, integrating sensors, and coding in C++/Arduino for image-detection, line-tracking, and PID-control",
+        "Taught SOLIDWORKS, electronics prototyping (soldering, circuit layout and testing), and multi-sensor fusion, fostering field-ready systems",
+        "Guided teams through full development cycles, from design to validation, sharpening technical communication and leadership skills"
+      ],
+      "achievements": [
+        "Deepened expertise in autonomous systems and ruggedized electronics, relevant to defense technologies like UAVs or UGVs"
+      ],
+      "technologies": [
+        "C++",
+        "Arduino",
+        "SOLIDWORKS",
+        "Electronics prototyping"
+      ],
+      "id": "890efa75-eed3-4862-80b5-5a7b810e4dc6",
+      "extracted_date": "2026-01-02T09:42:21.356230"
+    },
+    {
+      "company": "Research Laboratory",
+      "role": "Research Assistant",
+      "start_date": "2019-09",
+      "end_date": "2022-06",
+      "is_current": false,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Led customized hardware development for nonstandard subject anatomy, including creating custom-machined and 3D printed parts for degu brain imaging setups",
+        "Developed a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in hardware fabrication and assembly, emphasizing ergonomic design principles and operator interface considerations"
+      ],
+      "achievements": [
+        "Contributed to 2 peer-reviewed publications",
+        "Demonstrated mechanical intuition and systems-level thinking essential for prototype development in operational environments"
+      ],
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "3D printing",
+        "CNC machining",
+        "Laser cutting"
+      ],
+      "id": "b9cf614b-d1e1-4ceb-aba7-952ba546b4c6",
+      "extracted_date": "2026-01-02T09:42:21.356311"
+    },
+    {
+      "company": "Senior Capstone Project",
+      "role": "Project Lead",
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "is_current": false,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Designed, prototyped, and tested a novel microfluidic delivery system for a client diagnostic device",
+        "Pivoted to alternative in-house fab methods to maintain timelines when budget limitations eliminated the preferred fabrication method",
+        "Iterated over multiple channel geometries to validate a design that optimized passive mixing while maintaining flow uniformity"
+      ],
+      "achievements": [
+        "Demonstrated ability to deliver functional hardware solutions through iterative design, alternative manufacturing approaches, and rigorous validation testing"
+      ],
+      "technologies": [
+        "3D printing",
+        "CNC machining"
+      ],
+      "id": "3c033d4c-8bde-40a5-8152-7b0c56273034",
+      "extracted_date": "2026-01-02T09:42:21.356375"
+    },
+    {
+      "company": "UC Irvine Engineering Summer Camp",
+      "role": "Undergraduate Teaching Assistant",
+      "start_date": "2022-06",
+      "end_date": "2022-06",
+      "is_current": false,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Designed and developed engaging curriculum and lesson plans for international students, focusing on fundamental engineering principles, hands-on projects, and teamwork exercises",
+        "Evaluated student performance through project assessments, quizzes, and office hours, offering feedback to support their development",
+        "Facilitated lectures and group discussions through hands-on project learning to explain basic engineering concepts"
+      ],
+      "achievements": [],
+      "technologies": [],
+      "id": "11e4d8a1-a901-4653-a516-ee5172e6ba71",
+      "extracted_date": "2026-01-02T09:42:42.046611"
+    },
+    {
+      "company": "BSA-MED Medical Supply Store",
+      "role": "Cashier",
+      "start_date": "2022-12",
+      "end_date": "2022-12",
+      "is_current": false,
+      "location": "Brentwood, CA",
+      "responsibilities": [
+        "Delivered customer service by answering inquiries and assisting with customer selection of scrubs, incontinence supplies, and other medical products",
+        "Assisted with stocking shelves, organizing products, and conducting inventory checks to ensure product availability and efficient store operations"
+      ],
+      "achievements": [],
+      "technologies": [],
+      "id": "d929dba0-0de1-4c7d-8ceb-80fc7bce8eb5",
+      "extracted_date": "2026-01-02T09:42:42.046677"
+    },
+    {
+      "company": "Look Model Agency",
+      "role": "Model & Actress",
+      "start_date": "2018-07",
+      "end_date": null,
+      "is_current": true,
+      "location": "San Francisco, CA",
+      "responsibilities": [
+        "Modeled for advertising campaigns for leading tech companies, including Apple and HP",
+        "Performed e-commerce modeling for brands such as The North Face and Neiman Marcus, contributing to online retail platforms",
+        "Demonstrated by versatility by adapting to various modeling roles, from commercial shoots to lifestyle edits, meeting the diverse needs of clients"
+      ],
+      "achievements": [],
+      "technologies": [],
+      "id": "fdc25d30-30be-4893-b867-5c52dc62b8b3",
+      "extracted_date": "2026-01-02T09:42:42.046736"
+    },
+    {
+      "company": "Industry-sponsored Design Project",
+      "role": "R&D Engineer",
+      "start_date": "2018-06",
+      "end_date": "2018-12",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led the development and testing of microfluidic components using CNC machining, laser cutting, and both FDM and SLA 3D printing",
+        "Diagnosed failure modes through thermal and flow testing, refining assemblies and subassemblies to meet performance requirements under simulated use-cases"
+      ],
+      "technologies": [
+        "CNC machining",
+        "Laser cutting",
+        "FDM 3D printing",
+        "SLA 3D printing",
+        "Microfluidics"
+      ],
+      "id": "deae56c4-b4d7-4ce5-8d7b-4f027226c1a5",
+      "extracted_date": "2026-01-02T09:42:57.294785"
+    },
+    {
+      "company": "Undergraduate Robotics Course",
+      "role": "Teaching Assistant",
+      "start_date": "2017-09",
+      "end_date": "2017-12",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Mentored teams building microcontroller-driven autonomous rovers",
+        "Provided instruction in Solidworks, Arduino/C++, and multi-sensor integration",
+        "Guided students through electronics prototyping, including soldering of components, assembling sensor arrays, and verifying circuit integrity with multimeters"
+      ],
+      "technologies": [
+        "Solidworks",
+        "Arduino",
+        "C++",
+        "Electronics prototyping"
+      ],
+      "id": "eed7d29a-35c7-4d7c-9036-eeb45a5e71cb",
+      "extracted_date": "2026-01-02T09:42:57.294872"
+    },
+    {
+      "company": "Industry-sponsored Design Project",
+      "role": "R&D Engineer",
+      "start_date": "2017-06",
+      "end_date": "2017-12",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led the development and testing of microfluidic components using CNC machining, laser cutting, and both FDM and SLA 3D printing",
+        "Diagnosed failure modes through thermal and flow testing, refining assemblies and subassemblies to meet performance requirements under simulated use-cases"
+      ],
+      "technologies": [
+        "CNC machining",
+        "Laser cutting",
+        "3D printing (FDM and SLA)",
+        "Microfluidics"
+      ],
+      "id": "6c2d24d1-b584-4342-9612-30d78109cf39",
+      "extracted_date": "2026-01-02T09:43:05.565696"
+    },
+    {
+      "company": "Undergraduate Robotics Course",
+      "role": "Teaching Assistant",
+      "start_date": "2016-09",
+      "end_date": "2016-12",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Mentored teams building microcontroller-driven autonomous rovers",
+        "Provided instruction in Solidworks, Arduino/C++, and multi-sensor integration",
+        "Guided students through electronics prototyping, including soldering of components, assembling sensor arrays, and verifying circuit integrity with multimeters"
+      ],
+      "technologies": [
+        "Solidworks",
+        "Arduino",
+        "C++",
+        "Sensor integration",
+        "Electronics prototyping"
+      ],
+      "id": "b6f7c4fd-ba0a-4216-9eac-e58d5845e35a",
+      "extracted_date": "2026-01-02T09:43:05.565801"
+    },
+    {
+      "company": "UC Irvine School of Medicine, Xu Lab",
+      "role": "Student Researcher",
+      "start_date": "2025-03",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led hardware development and prototyping for 4+ studies, designing 5+ 3D printed and machined components to increase experimental throughput and reproducibility.",
+        "Streamlined animal colony operations, overseeing procurement, deliverables tracking, and scheduling across 3 active research projects.",
+        "Trained 4 undergraduate researchers and interns in 3D printing, machining, and hardware assembly, improving equipment deployment consistency.",
+        "Coordinated tasks across animal care, protocol compliance, and hardware builds, achieving on-time research execution over multiple quarters."
+      ],
+      "achievements": [],
+      "technologies": [
+        "3D Printing",
+        "Machining"
+      ],
+      "id": "a5878bc8-768c-44d6-9dd7-ef94118a0c1a",
+      "extracted_date": "2026-01-02T09:45:07.959011"
+    },
+    {
+      "company": "UC Irvine School of Medicine, Xu Lab",
+      "role": "Student Research Project Manager",
+      "start_date": "2025-03",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led hardware development and prototyping for 4+ studies, designing 5+ 3D printed and machined components to increase experimental throughput and reproducibility.",
+        "Streamlined animal colony operations, overseeing procurement, deliverables tracking, and scheduling across 3 active research projects.",
+        "Trained 4 undergraduate researchers and interns in 3D printing, machining, and hardware assembly, improving equipment deployment consistency.",
+        "Coordinated tasks across animal care, protocol compliance, and hardware builds, achieving on-time research execution over multiple quarters."
+      ],
+      "achievements": [],
+      "technologies": [
+        "3D Printing",
+        "Machining"
+      ],
+      "id": "be810e4a-400a-4e78-8e0c-c588d189d1e2",
+      "extracted_date": "2026-01-02T09:48:51.011214"
+    },
+    {
+      "company": "Kaiser Permanente",
+      "role": "Seismic Retrofitting Program",
+      "start_date": "1990-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "California",
+      "responsibilities": [
+        "Implemented an aggressive seismic mitigation program",
+        "Conducted comprehensive evaluations of all major medical centers and administrative buildings",
+        "Developed standards to ensure all acute care hospital buildings would remain operational after an earthquake"
+      ],
+      "achievements": [
+        "Achieved structural compliance by 2008",
+        "Committed approximately $4 billion to rebuilding and upgrading hospitals",
+        "Retrofitted the San Francisco hospital with a $100 million project that reinforced the foundation and added exterior shear walls"
+      ],
+      "technologies": [
+        "Shear walls",
+        "Moment resisting frames",
+        "External post-tensioning"
+      ],
+      "id": "b22f0e95-1d4e-4ae9-a989-8ad76487c46e",
+      "extracted_date": "2026-01-02T09:54:40.461345"
+    },
+    {
+      "company": "Alameda Hospital",
+      "role": "Seismic Retrofitting Project",
+      "start_date": "2018-01",
+      "end_date": "2018-12",
+      "is_current": false,
+      "location": "Alameda, California",
+      "responsibilities": [
+        "Secured $25 million in funding from parcel tax revenue for seismic retrofit",
+        "Reinforced foundational and structural elements with deep piles and shear walls"
+      ],
+      "achievements": [
+        "Enhanced the building's stability during earthquakes"
+      ],
+      "technologies": [
+        "Shear walls",
+        "Deep piles"
+      ],
+      "id": "37d7ae91-4ece-4d76-bbe7-7910a2fa80ee",
+      "extracted_date": "2026-01-02T09:54:40.461606"
+    },
+    {
+      "company": "Providence Cedars-Sinai Tarzana Medical Center",
+      "role": "Seismic Renovation Project",
+      "start_date": "2020-01",
+      "end_date": "2021-12",
+      "is_current": false,
+      "location": "Los Angeles, California",
+      "responsibilities": [
+        "Underwent a multi-phase seismic renovation",
+        "Installed drag beams to work in conjunction with other strengthening elements"
+      ],
+      "achievements": [
+        "Absorbed and redistributed seismic forces"
+      ],
+      "technologies": [
+        "Drag beams"
+      ],
+      "id": "bda46b1e-c86b-4bda-9358-2f846c9e567f",
+      "extracted_date": "2026-01-02T09:54:40.461840"
+    },
+    {
+      "company": "Kaiser Permanente",
+      "role": "Seismic Retrofitting",
+      "start_date": "2008-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "California",
+      "responsibilities": [
+        "Implemented aggressive seismic mitigation program",
+        "Rebuilt and upgraded hospitals to achieve structural compliance"
+      ],
+      "achievements": [
+        "Achieved structural compliance by 2008",
+        "Committed approximately $4 billion to retrofitting efforts"
+      ],
+      "technologies": [
+        "Reinforced building foundations",
+        "Added exterior shear walls to resist seismic forces"
+      ],
+      "id": "ee48f001-88b0-4e61-b984-5700814632b5",
+      "extracted_date": "2026-01-02T09:54:46.335672"
+    },
+    {
+      "company": "Alameda Hospital",
+      "role": "Seismic Retrofitting",
+      "start_date": "2018-01",
+      "end_date": "2018-12",
+      "is_current": false,
+      "location": "Alameda, California",
+      "responsibilities": [
+        "Reinforced foundational and structural elements",
+        "Installed deep piles and shear walls to enhance building stability"
+      ],
+      "achievements": [
+        "Secured $25 million in funding from parcel tax revenue for retrofitting"
+      ],
+      "technologies": [
+        "Deep piles",
+        "Shear walls"
+      ],
+      "id": "420a9794-9f93-45f6-8972-cf0630919e72",
+      "extracted_date": "2026-01-02T09:54:46.335943"
+    },
+    {
+      "company": "Providence Cedars-Sinai Tarzana Medical Center",
+      "role": "Seismic Retrofitting",
+      "start_date": "2020-01",
+      "end_date": "2021-12",
+      "is_current": false,
+      "location": "Los Angeles, California",
+      "responsibilities": [
+        "Conducted multi-phase seismic renovation",
+        "Installed drag beams to absorb and redistribute seismic forces"
+      ],
+      "achievements": [],
+      "technologies": [
+        "Drag beam installation",
+        "Structural strengthening elements"
+      ],
+      "id": "520dce94-c5a4-456d-b7ea-9c71219fafd1",
+      "extracted_date": "2026-01-02T09:54:46.336189"
+    },
+    {
+      "company": "Alameda Hospital",
+      "role": "Seismic Retrofit Project",
+      "start_date": "2018-01",
+      "end_date": "2018-12",
+      "is_current": false,
+      "location": "Alameda, California",
+      "responsibilities": [
+        "Secured $25 million in funding for seismic retrofit",
+        "Reinforced foundational and structural elements"
+      ],
+      "achievements": [
+        "Installed deep piles and shear walls to enhance building stability"
+      ],
+      "technologies": [
+        "Deep piles",
+        "Shear walls"
+      ],
+      "id": "996f86c0-63c9-4e2a-81e5-c589a25763b4",
+      "extracted_date": "2026-01-02T09:54:53.369589"
+    },
+    {
+      "company": "Providence Cedars-Sinai Tarzana Medical Center",
+      "role": "Seismic Renovation",
+      "start_date": "2020-01",
+      "end_date": "2021-12",
+      "is_current": false,
+      "location": "Los Angeles, California",
+      "responsibilities": [
+        "Conducted multi-phase seismic renovation project"
+      ],
+      "achievements": [
+        "Installed drag beams to absorb and redistribute seismic forces"
+      ],
+      "technologies": [
+        "Drag beams"
+      ],
+      "id": "065a4885-70df-4b56-a10d-5d1061ad8380",
+      "extracted_date": "2026-01-02T09:54:53.369933"
+    },
+    {
+      "company": "Engineering 7",
+      "role": "Undergraduate Assistant",
+      "start_date": "2020-01",
+      "end_date": null,
+      "is_current": true,
+      "responsibilities": [
+        "Built a rover from scratch with a team of 5",
+        "Built a fitness tracker the following quarter",
+        "Learned to feed my curiosity and found my purpose",
+        "Taught alongside the staff I admired as a freshman"
+      ],
+      "id": "a068c5be-af98-4cad-a8c7-c3d7bf3ad36a",
+      "extracted_date": "2026-01-02T09:55:00.592428"
+    },
+    {
+      "company": "Union Carbide",
+      "role": "Engineer",
+      "start_date": "1984-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Bhopal, India",
+      "responsibilities": [
+        "Responsible for the design and manufacturing of products"
+      ],
+      "achievements": [
+        "Contributed to the development of new product lines"
+      ],
+      "technologies": [
+        "Product design",
+        "Manufacturing processes"
+      ],
+      "id": "2147d7da-2706-4eee-aea9-943bce2c5a42",
+      "extracted_date": "2026-01-02T09:55:02.908232"
+    },
+    {
+      "company": "Union Carbide",
+      "role": "Engineer",
+      "location": "India",
+      "responsibilities": [
+        "Responsible for manufacturing processes and safety procedures"
+      ],
+      "achievements": [
+        "Contributed to the development of the company's products"
+      ],
+      "id": "e03fac4f-6edd-4798-ad8a-81320c5427b3",
+      "extracted_date": "2026-01-02T09:55:13.489990"
+    },
+    {
+      "company": "Celanese Corporation",
+      "role": "Irving, TX, USA",
+      "start_date": "2014-01",
+      "end_date": null,
+      "is_current": true,
+      "responsibilities": [
+        "Examined the successful role EVA has demonstrated in parenteral applications.",
+        "Discussed the use of EVA in blood bags as a PVC alternative.",
+        "Explored the success of EVA in pharmacy compounding applications like nutrition and chemotherapy fluid delivery.",
+        "Discussed the growing future role of EVA copolymers in the delivery of biologics."
+      ],
+      "achievements": [
+        "Provided an overview of EVA chemistry and its long use in medical applications.",
+        "Presented case studies on the use of EVA in parenteral delivery of blood, compounded fluids, and biologics.",
+        "Concluded that EVA copolymers will continue to offer excellent solutions and innovations in parenteral applications."
+      ],
+      "technologies": [
+        "Ethylene vinyl acetate (EVA) copolymers",
+        "Parenteral administration",
+        "Intravenous (IV) delivery",
+        "Total parenteral nutrition (TPN)",
+        "Biologics",
+        "Monoclonal antibodies"
+      ],
+      "id": "d4b78a94-bc00-4e21-ba66-9e22e5c6f887",
+      "extracted_date": "2026-01-02T09:55:17.676915"
+    },
+    {
+      "company": "Industry-sponsored Design Project",
+      "role": "R&D Engineer",
+      "start_date": "2020-06",
+      "end_date": "2021-06",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led the development and testing of microfluidic components for a point-of care diagnostic device",
+        "Designed modular housings and fluidic subsystems",
+        "Produced components using CNC machining, laser cutting, and FDM 3D printing",
+        "Diagnosed failure modes through thermal and flow testing"
+      ],
+      "achievements": [
+        "Gained experience leading the development and testing of early-stage hardware"
+      ],
+      "technologies": [
+        "CNC machining",
+        "Laser cutting",
+        "FDM 3D printing",
+        "Microfluidics"
+      ],
+      "id": "71184b2a-e669-45b5-85e3-52f523680bab",
+      "extracted_date": "2026-01-02T09:56:41.705415"
+    },
+    {
+      "company": "Academic Research",
+      "role": "Hardware Developer",
+      "start_date": "2018-09",
+      "end_date": "2022-06",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Led hardware development, creating custom-machined and 3D printed parts for imaging and experimental setups in multiple research studies",
+        "Led the development of a neuronal and behavior analysis pipeline using Python and Matlab",
+        "Trained undergraduates and interns in the fabrication and deployment of custom hardware and equipment assembly"
+      ],
+      "achievements": [
+        "Improved dataset processing times by over 90% and offered a standardized method of real-time neuronal analysis lab-wide",
+        "Demonstrated ownership, mechanical intuition, and systems-level thinking"
+      ],
+      "technologies": [
+        "CNC machining",
+        "3D printing",
+        "Python",
+        "Matlab"
+      ],
+      "id": "e614010a-e71b-4bc7-b5a6-b9be6e99b6a5",
+      "extracted_date": "2026-01-02T09:56:41.705737"
+    },
+    {
+      "company": "Pacifico Energy",
+      "role": "Project Developer",
+      "start_date": "2020-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Texas",
+      "responsibilities": [
+        "Led pre-development & power & gas commodity contracting for two major data center projects in Texas (total 864 MW, 1,052 acres)",
+        "Initiated negotiations with the relevant Load-Serving Entity (LSE) and midstream operators, managing the interconnection, study, & review process for 100 million MMBTU/d of firm transport capacity as well as 432 MW of utility power off the grid",
+        "Led the origination, development, and sale of a 28 MW portfolio of DERs in PA, NJ, and MN targeted for participation in community solar and retail net metering programs"
+      ],
+      "achievements": [
+        "Successfully sited both injection and load capacity areas where I led negotiation of our PPA and with utilities, managing financial targets and forecasts for project milestone completion"
+      ],
+      "technologies": [
+        "Power solutions",
+        "Utility interconnections",
+        "Community solar",
+        "Retail net metering"
+      ],
+      "id": "6e56f2ef-8049-4e6d-b21b-8fbaf873df20",
+      "extracted_date": "2026-01-02T09:56:47.526234"
+    },
+    {
+      "company": "GDIT",
+      "role": "Contractor",
+      "start_date": "2016-01",
+      "end_date": "2020-01",
+      "is_current": false,
+      "location": "Southern California",
+      "responsibilities": [
+        "Personally supported deployment of an aggregate 8.55 MW, distributed across 285 AT&T sites",
+        "Renegotiated hundreds of cell tower leases to accommodate expanding the site footprint for a backup generator",
+        "Facilitated shared generator access with the utility or cell tower landowners"
+      ],
+      "achievements": [
+        "Executed power solutions for AT&T FirstNet deployment, including facilitating shared generator access with stakeholders"
+      ],
+      "technologies": [
+        "Backup generators",
+        "Cell tower leases"
+      ],
+      "id": "fe3f108e-8820-490d-9078-e609d1719214",
+      "extracted_date": "2026-01-02T09:56:47.526561"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "William J. Link Chair and Professor",
+      "start_date": "null",
+      "end_date": "null",
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Teach Biomedical Signals and Systems (BME130) course",
+        "Conduct research in biomedical engineering"
+      ],
+      "achievements": [],
+      "technologies": [],
+      "id": "2821e620-4c10-414f-bb96-80a8a01348e9",
+      "extracted_date": "2026-01-02T09:57:21.485087"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "William J. Link Chair and Professor",
+      "start_date": "2023-11",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, CA",
+      "responsibilities": [
+        "Lecturing on biomedical signals and systems",
+        "Conducting research in biomedical engineering"
+      ],
+      "achievements": [
+        "Recognized as a leading expert in the field of biomedical engineering"
+      ],
+      "technologies": [
+        "Matlab",
+        "Modeling and simulation",
+        "Signal processing"
+      ],
+      "id": "b3ba624e-7f59-4606-8c1b-0cbec32c4729",
+      "extracted_date": "2026-01-02T09:58:09.871686"
+    },
+    {
+      "company": "The Software Revolution, Inc.",
+      "role": "Technical Intern",
+      "start_date": "2023-01",
+      "end_date": null,
+      "is_current": true,
+      "responsibilities": [
+        "Emulating CA-IDEAL and BULLJCL functionalities in Java and ReactTS for clients' legacy applications with limited documentation, requiring strong analytical skills",
+        "Improving documentation and validation of already-developed ReactTS and C# code through Storybook documentation (React only) and unit testing",
+        "Developing key industry skills to work on large-scale interconnected projects with extensive team coordination requirements"
+      ],
+      "technologies": [
+        "Java",
+        "ReactJS",
+        "Storybook",
+        "C#"
+      ],
+      "id": "941bba90-ab3f-482e-9cd2-d352f0475565",
+      "extracted_date": "2026-01-02T09:58:57.732893"
+    },
+    {
+      "company": "Xu Lab",
+      "role": "Undergraduate Researcher",
+      "start_date": "2021-09",
+      "end_date": null,
+      "is_current": true,
+      "responsibilities": [
+        "Handle sectioning, mounting, and imaging of Alzheimer's disease mouse models",
+        "Contribute to journal publications on Alzheimer's neuropathology",
+        "Oversee operation of lab's 3D printers and design custom hardware for various projects",
+        "Optimize CNMF-E pipelines for analysis with pose estimation tool DeepLabCut, streamlining dataset processing",
+        "Author a protocol in use by multiple postdoctoral researchers"
+      ],
+      "achievements": [
+        "Co-authored the study 'Monosynaptic Rabies Tracing Reveals Sex- and Age-Dependent Dorsal Subiculum Connectivity Alterations in an Alzheimer's Disease Mouse Model' (2024)",
+        "Co-authored the study 'How the Forebrain Transitions to Adulthood: Developmental Plasticity Markers in a Long-Lived Rodent' (2024)",
+        "Designed a custom tissue holder for tissue clearing and immunolabeling to accommodate unconventional tissue sizes",
+        "Modeled and printed an improved optical dipping window for use in light sheet microscopy"
+      ],
+      "technologies": [
+        "Tissue sectioning and imaging",
+        "3D printing and design",
+        "CNMF-E pipeline",
+        "DeepLabCut pose estimation"
+      ],
+      "id": "ac0566a1-a3b4-4628-8107-c9ce7da99e39",
+      "extracted_date": "2026-01-02T10:01:35.694103"
+    },
+    {
+      "company": "Engr 7",
+      "role": "Undergraduate Teaching Assistant",
+      "start_date": "2023-01",
+      "end_date": "2023-05",
+      "is_current": false,
+      "responsibilities": [
+        "Manage 4 classroom labs and weekly office hours, fostering engineering skills through hands-on projects",
+        "Mentor 12 student groups in technical skills in SOLIDWORKS and Arduino, facilitating the development of functional designs and algorithms",
+        "Contribute to the curriculum by delivering lectures and creating lesson plans"
+      ],
+      "achievements": [
+        "Demonstrated responsibilities expected of a first-year graduate student"
+      ],
+      "technologies": [
+        "SOLIDWORKS",
+        "Arduino"
+      ],
+      "id": "cfb4f918-4ea2-4f42-9161-c6188b9aa359",
+      "extracted_date": "2026-01-02T10:01:35.694399"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "Undergraduate Researcher",
+      "start_date": "2016-09",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Worked on multiple projects surrounding the complexities of Alzheimer's neuropathology and mechanisms of neurodegeneration",
+        "Contributed to a study investigating synaptic circuit alterations in the subiculum of 5xFAD mice",
+        "Focused on the use of the Octodon Degus (Degu), a social, diurnal, and long lived rodent endemic to Chile, that naturally expresses familial Alzheimer's disease pathology",
+        "Assessed cerebral amyloid angiopathy in degu brains using three-dimensional cellular resolution mapping",
+        "Studied Alzheimer's disease pathology and related cognitive defects using a wireless implant and in vivo GCaMP6-based calcium imaging with a miniature fluorescent microscope (miniscope)"
+      ],
+      "achievements": [
+        "Published findings on synaptic circuit alterations in the subiculum of 5xFAD mice",
+        "Contributed to a study on the use of the Octodon Degus (Degu) as a model for understanding the complexities of Alzheimer's disease",
+        "Developed custom functions in Matlab to integrate the pose estimation tool DeepLabCut into the CNMF-E pipeline, enabling 2D and 3D pose estimation based on transfer learning with deep neural networks"
+      ],
+      "technologies": [
+        "Neural circuit mapping",
+        "Whole-brain modeling",
+        "Machine learning",
+        "3D fabrication and design",
+        "LifeCanvas protocol",
+        "Wireless and battery operated miniscope system",
+        "CNMF-E embedded deconvolution algorithm",
+        "OASIS",
+        "DeepLabCut",
+        "Matlab"
+      ],
+      "id": "538a017a-e6d1-40b3-aacd-8d3ec86c89fe",
+      "extracted_date": "2026-01-02T10:01:50.105824"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "Undergraduate Researcher",
+      "start_date": "2020-09",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Facilitated multiple projects surrounding the complexities of Alzheimer's neuropathology and mechanisms of neurodegeneration",
+        "Engaged in neural circuit mapping, whole-brain modeling, and machine learning",
+        "Co-authored studies on Alzheimer's disease mouse models and developmental plasticity in a long-lived rodent",
+        "Assessed cerebral amyloid angiopathy in degu brains using three-dimensional cellular resolution mapping",
+        "Designed and 3D printed a custom tissue holder to accommodate larger degu hemispheres",
+        "Investigated 3D spatial navigation and spatial coding defects associated with Alzheimer's using wireless in vivo GCaMP6-based calcium imaging",
+        "Integrated the pose estimation tool DeepLabCut into the CNMF-E pipeline to enable 2D and 3D pose estimation based on transfer learning with deep neural networks"
+      ],
+      "achievements": [
+        "Co-authored the study 'Monosynaptic Rabies Tracing Reveals Sex- and Age-Dependent Dorsal Subiculum Connectivity Alterations in an Alzheimer's Disease Mouse Model' (2024)",
+        "Co-authored the study 'How the Forebrain Transitions to Adulthood: Developmental Plasticity Markers in a Long-Lived Rodent' (2024)"
+      ],
+      "technologies": [
+        "Neural circuit mapping",
+        "Whole-brain modeling",
+        "Machine learning",
+        "Monosynaptic rabies tracing",
+        "Alzheimer's disease mouse models",
+        "Octodon Degus (Degu)",
+        "Three-dimensional cellular resolution mapping",
+        "LifeCanvas protocol",
+        "Wireless in vivo GCaMP6-based calcium imaging",
+        "Miniature fluorescent microscope (miniscope)",
+        "CNMF-E deconvolution algorithm",
+        "OASIS",
+        "DeepLabCut",
+        "Matlab",
+        "3D printing"
+      ],
+      "id": "33939111-1744-445b-8bc6-2d500770171b",
+      "extracted_date": "2026-01-02T10:02:05.307717"
+    },
+    {
+      "company": "Xu Lab",
+      "role": "Undergraduate Researcher",
+      "start_date": "2019-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Sectioning, mounting, and imaging of AD mouse and degu models",
+        "Developed a MATLAB-based pipeline for behavior analysis using DeepLabCut",
+        "Contributed to several publications, gaining experience in scientific documentation and academic writing"
+      ],
+      "achievements": [
+        "Yielded insights into AD pathology and neurobiological processes",
+        "Developed skills in experimental procedures, foundational for microfluidics and diagnostic development"
+      ],
+      "technologies": [
+        "MATLAB",
+        "DeepLabCut"
+      ],
+      "id": "d651ebed-4f26-499f-8ec6-f9c729fdaf7c",
+      "extracted_date": "2026-01-02T10:03:15.191678"
+    },
+    {
+      "company": "University of California, Irvine",
+      "role": "Undergraduate Teaching Assistant",
+      "start_date": "2020-09",
+      "end_date": "2021-06",
+      "is_current": false,
+      "location": "Irvine, California",
+      "responsibilities": [
+        "Guided students through technical skills such as CAD design, 3D printing, and electronic prototyping",
+        "Reinforced ability to simplify complex concepts"
+      ],
+      "achievements": [
+        "Gained experience in interpreting the nuances of technical projects"
+      ],
+      "technologies": [
+        "CAD",
+        "3D Printing",
+        "Electronics"
+      ],
+      "id": "35ca26cf-f293-4f8b-8d4c-62726d92edf1",
+      "extracted_date": "2026-01-02T10:03:15.192155"
+    },
+    {
+      "company": "Academic Research",
+      "role": "Hardware Developer",
+      "start_date": null,
+      "end_date": null,
+      "is_current": true,
+      "location": null,
+      "responsibilities": [
+        "Led hardware development, creating custom-machined and 3D printed parts for imaging and experimental setups in multiple research studies",
+        "Led the development of a neuronal and behavior analysis pipeline using Python and Matlab, improving dataset processing times by over 90% and offering a standardized method of real-time neuronal analysis lab-wide",
+        "Trained undergraduates and interns in the fabrication and deployment of custom hardware and equipment assembly, demonstrating ownership, mechanical intuition, and systems-level thinking"
+      ],
+      "technologies": [
+        "Python",
+        "Matlab",
+        "3D Printing"
+      ],
+      "id": "a1ad4b14-52aa-4205-a8a1-94f4511c3533",
+      "extracted_date": "2026-01-02T10:03:43.406939"
+    },
+    {
+      "company": "The MathWorks, Inc.",
+      "role": "Installation Help",
+      "start_date": "1996-01",
+      "end_date": "2023-03",
+      "is_current": true,
+      "location": "Natick, MA",
+      "responsibilities": [
+        "Provide installation help for MATLAB and Simulink products",
+        "Troubleshoot common installation issues",
+        "Document installation procedures"
+      ],
+      "achievements": [],
+      "technologies": [
+        "MATLAB",
+        "Simulink"
+      ],
+      "id": "12c641f0-e8f5-4519-87a0-6f2fa9458088",
+      "extracted_date": "2026-01-02T10:04:02.784303"
+    },
+    {
+      "company": "The MathWorks, Inc.",
+      "role": "Technical Writer",
+      "start_date": "1996-01",
+      "end_date": null,
+      "is_current": true,
+      "location": "Natick, MA",
+      "responsibilities": [
+        "Wrote and edited technical documentation for MATLAB and Simulink products",
+        "Collaborated with engineering teams to ensure accurate and comprehensive documentation",
+        "Maintained and updated existing documentation as new product features were released"
+      ],
+      "achievements": [
+        "Received multiple awards for excellence in technical writing and documentation"
+      ],
+      "technologies": [
+        "MATLAB",
+        "Simulink",
+        "Technical writing",
+        "Documentation tools"
+      ],
+      "id": "cef8b013-d15e-4c8b-a17a-2a00d4318ed5",
+      "extracted_date": "2026-01-02T10:04:14.182354"
+    },
+    {
+      "company": "The MathWorks, Inc.",
+      "role": "MATLAB and Simulink Product Installation Documentation",
+      "start_date": "2020-03",
+      "end_date": null,
+      "is_current": true,
+      "location": "Tokyo, Japan",
+      "responsibilities": [
+        "Wrote and maintained installation documentation for MATLAB and Simulink products",
+        "Provided step-by-step instructions for installing MATLAB and Simulink on Windows, Linux, and macOS platforms",
+        "Troubleshot common installation issues and provided solutions"
+      ],
+      "achievements": [
+        "Ensured clear and comprehensive installation guides for MathWorks products",
+        "Improved installation documentation based on user feedback to enhance the installation experience"
+      ],
+      "technologies": [
+        "MATLAB",
+        "Simulink",
+        "Technical writing",
+        "Documentation tools"
+      ],
+      "id": "d88eb6dd-63f5-43cd-b595-5f469cd09c4b",
+      "extracted_date": "2026-01-02T10:05:27.822232"
+    },
+    {
+      "company": "MathWorks",
+      "role": "Product Installation Engineer",
+      "start_date": "2020-03",
+      "end_date": null,
+      "is_current": true,
+      "location": "Beijing, China",
+      "responsibilities": [
+        "Provide installation guidance and troubleshooting for MathWorks products",
+        "Develop and maintain installation documentation and tutorials",
+        "Assist customers with network license management and configuration"
+      ],
+      "achievements": [
+        "Improved installation success rate by 15% through enhanced documentation and troubleshooting",
+        "Reduced customer support tickets related to installation by 20%"
+      ],
+      "technologies": [
+        "MATLAB",
+        "Simulink",
+        "Network License Manager",
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "id": "971e5003-0a02-4f33-acb2-320362e3fad6",
+      "extracted_date": "2026-01-02T10:06:52.244912"
+    },
+    {
+      "company": "The MathWorks, Inc.",
+      "role": "Software License Agreement",
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "location": null,
+      "responsibilities": [],
+      "achievements": [],
+      "technologies": [],
+      "id": "510b41f4-3863-4b67-bead-eec28ddddca2",
+      "extracted_date": "2026-01-02T10:07:04.321596"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_date": "2014-09",
+      "end_date": "2018-05",
+      "gpa": "3.8",
+      "honors": [
+        "Magna Cum Laude",
+        "Dean's List (6 semesters)"
+      ],
+      "id": "36c0a1cd-31fe-4407-9ac8-1ec92db1b633",
+      "extracted_date": "2026-01-01T12:24:15.678912"
+    },
+    {
+      "degree": "Degree Name",
+      "field_of_study": "Major/Field",
+      "school": "School Name",
+      "location": "City, State/Country",
+      "start_date": "YYYY-MM",
+      "end_date": "YYYY-MM",
+      "gpa": "3.8",
+      "honors": [
+        "honor1",
+        "honor2"
+      ],
+      "relevant_coursework": [
+        "course1",
+        "course2"
+      ],
+      "id": "936cfe94-a76e-42a6-bdd1-255e1b96a681",
+      "extracted_date": "2026-01-02T09:28:06.883367"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Biomedical Engineering",
+      "school": "University Name",
+      "location": "City, State/Country",
+      "start_date": "2014-08",
+      "end_date": "2018-05",
+      "gpa": "3.8",
+      "honors": [
+        "Dean's List"
+      ],
+      "relevant_coursework": [
+        "BME 111: Biomaterials",
+        "BME 222: Tissue Engineering"
+      ],
+      "id": "af5e9089-e23d-4414-9a0a-25cc082b67ec",
+      "extracted_date": "2026-01-02T09:28:41.352521"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Biomedical Engineering",
+      "school": "University of California, Irvine",
+      "location": "Irvine, California",
+      "start_date": "2021-09",
+      "end_date": "2025-06",
+      "gpa": "3.8",
+      "honors": [
+        "Dean's List"
+      ],
+      "relevant_coursework": [
+        "Biomedical Engineering Fundamentals",
+        "Biomechanics",
+        "Biomedical Imaging",
+        "Tissue Engineering"
+      ],
+      "id": "7a43c2e0-c561-4f5f-b069-1584fdba6c58",
+      "extracted_date": "2026-01-02T09:28:57.846156"
+    },
+    {
+      "degree": "Bachelor's",
+      "field_of_study": "Biomedical Engineering",
+      "school": "University of California, Irvine",
+      "location": "Irvine, CA",
+      "start_date": "2020-09",
+      "end_date": "2024-06",
+      "gpa": "N/A",
+      "honors": [],
+      "relevant_coursework": [],
+      "id": "9161f8a7-320e-4eae-8e31-13d0278ae2ef",
+      "extracted_date": "2026-01-02T09:29:16.409330"
+    },
+    {
+      "degree": "Biomedical Engineering",
+      "field_of_study": "Biomedical Engineering",
+      "school": "null",
+      "location": "null",
+      "start_date": "null",
+      "end_date": "null",
+      "gpa": "null",
+      "honors": [],
+      "relevant_coursework": [],
+      "id": "497a5a2a-31bc-453b-85c2-5f2db06da5eb",
+      "extracted_date": "2026-01-02T09:30:30.368067"
+    },
+    {
+      "degree": "BS",
+      "field_of_study": "Biomedical Engineering",
+      "school": "University of California, Irvine",
+      "location": "Irvine, California",
+      "start_date": "2021-09",
+      "end_date": "2025-06",
+      "gpa": null,
+      "honors": [],
+      "relevant_coursework": [],
+      "id": "77a1d39f-dce6-4b37-a2d1-c34031d6b55c",
+      "extracted_date": "2026-01-02T09:31:52.011330"
+    },
+    {
+      "degree": "BME",
+      "field_of_study": "Biomedical Engineering",
+      "school": "University of California, Irvine",
+      "location": "Irvine, CA",
+      "start_date": "2020-09",
+      "end_date": "2024-06",
+      "id": "b453881e-2bdd-499e-a046-4bbd677bc3d5",
+      "extracted_date": "2026-01-02T09:31:58.134095"
+    },
+    {
+      "degree": "B.S.",
+      "field_of_study": "Biomedical Engineering",
+      "school": "University of California, Irvine",
+      "location": "Irvine, CA",
+      "start_date": "2021-09",
+      "end_date": null,
+      "gpa": null,
+      "honors": [],
+      "relevant_coursework": [],
+      "id": "4775c473-a635-4cd7-b246-7a1c6537a7c9",
+      "extracted_date": "2026-01-02T09:35:11.283206"
+    },
+    {
+      "degree": "B.S.",
+      "field_of_study": "Biomedical Engineering",
+      "school": "UC Irvine",
+      "location": "Irvine, CA",
+      "start_date": "2021-09",
+      "end_date": "2025-06",
+      "gpa": null,
+      "honors": [],
+      "relevant_coursework": [],
+      "id": "464f8303-7001-464f-98c4-52f21bc4e8c7",
+      "extracted_date": "2026-01-02T09:35:31.702055"
+    },
+    {
+      "degree": "Laboratory Safety Fundamentals",
+      "school": "University of California, Irvine",
+      "location": "Irvine, California",
+      "start_date": "2025-04",
+      "end_date": "2025-04",
+      "id": "2cfa7251-ea45-454e-9db7-8c9711d0a9b4",
+      "extracted_date": "2026-01-02T09:56:56.789098"
+    },
+    {
+      "degree": "BME",
+      "field_of_study": "Biomedical Engineering",
+      "school": "University of Illinois at Chicago",
+      "location": "Chicago, Illinois",
+      "start_date": "2004-08",
+      "end_date": "2008-12",
+      "id": "209aeb30-da0f-4751-b125-b7cb6979d5f9",
+      "extracted_date": "2026-01-02T10:01:21.888378"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "school": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "start_date": "1992-09",
+      "end_date": "1996-06",
+      "gpa": "3.8",
+      "honors": [
+        "Magna Cum Laude",
+        "Dean's List"
+      ],
+      "relevant_coursework": [
+        "Algorithms",
+        "Data Structures",
+        "Software Engineering",
+        "Artificial Intelligence"
+      ],
+      "id": "601d8d93-baa0-4fbd-ace4-4dd7182722cc",
+      "extracted_date": "2026-01-02T10:04:14.182755"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "school": "University of Tokyo",
+      "location": "Tokyo, Japan",
+      "start_date": "2015-04",
+      "end_date": "2019-03",
+      "gpa": "3.8",
+      "honors": [
+        "Dean's List",
+        "Graduated with Distinction"
+      ],
+      "relevant_coursework": [
+        "Algorithms and Data Structures",
+        "Software Engineering",
+        "Operating Systems"
+      ],
+      "id": "d839315d-ec90-4961-8bdc-eae4144a84e4",
+      "extracted_date": "2026-01-02T10:05:27.822566"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "school": "Tsinghua University",
+      "location": "Beijing, China",
+      "start_date": "2016-09",
+      "end_date": "2020-06",
+      "gpa": "3.9",
+      "honors": [
+        "Dean's List",
+        "Graduated with Distinction"
+      ],
+      "relevant_coursework": [
+        "Algorithms and Data Structures",
+        "Operating Systems",
+        "Software Engineering",
+        "Computer Networks"
+      ],
+      "id": "c63f2cc5-a956-4a4f-acfe-1ea940d9a1ad",
+      "extracted_date": "2026-01-02T10:06:52.245378"
+    }
+  ],
+  "skills": {
+    "technical": {
+      "programming_languages": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "SQL",
+        "MATLAB",
+        "C/C++",
+        "C++",
+        "C",
+        "Arduino IDE",
+        "Arduino",
+        "Linux (command line & shell scripting)",
+        "LabView",
+        "Java"
+      ],
+      "frameworks": [
+        "React",
+        "FastAPI",
+        "Django",
+        "Node.js",
+        "Express",
+        "Arduino IDE",
+        "LabView",
+        "Arduino",
+        "TensorFlow",
+        "ReactJS",
+        "CNMF-E",
+        "DeepLabCut",
+        "OASIS",
+        "Simulink",
+        "NumPy",
+        "Pandas"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "MySQL",
+        "SQL"
+      ],
+      "cloud_platforms": [
+        "AWS (EC2, S3, Lambda)",
+        "AWS",
+        "Azure"
+      ],
+      "tools": [
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "Git",
+        "DeepLabCut",
+        "3D printing",
+        "Motion Sequencing",
+        "Hardware Design",
+        "Computational Modeling",
+        "Technical Documentation",
+        "CAD",
+        "3D Printing (SLA, FDM)",
+        "Laser Cutting",
+        "Electronics Prototyping",
+        "I2C",
+        "PCB Layout",
+        "Thermal Testing",
+        "Fatigue Testing",
+        "Hardware Validation",
+        "Failure Mode Analysis",
+        "Root Cause Analysis",
+        "Signal Analysis",
+        "Electronics Bench Testing",
+        "MATLAB",
+        "Immunofluorescence labeling",
+        "Confocal microscopy",
+        "Machine learning",
+        "SOLIDWORKS",
+        "Adobe Photoshop",
+        "Ultimaker Cura",
+        "Soldering",
+        "Welding",
+        "Arduino",
+        "CNC machining",
+        "FDM 3D printing",
+        "C++",
+        "SLA 3D printing",
+        "3D Printing (FDM, SLA)",
+        "IACUC protocols",
+        "Multimeter",
+        "3D printing (FDM and SLA)",
+        "SOLIDWORKS (CAD)",
+        "Arduino IDE",
+        "LabView",
+        "Linux (command line & shell scripting)",
+        "Test Plan Development",
+        "SQL",
+        "Storybook",
+        "CNMF-E",
+        "OASIS",
+        "Miniscope",
+        "Electronics",
+        "LaTeX",
+        "Confluence",
+        "JIRA",
+        "Markdown"
+      ],
+      "concepts": [
+        "Microservices",
+        "REST APIs",
+        "CI/CD",
+        "Agile",
+        "TDD",
+        "Polymer chemistry",
+        "Biomaterials",
+        "Tissue engineering",
+        "Mechanical testing",
+        "Wet-lab experiments",
+        "Immunostaining",
+        "Brain imaging",
+        "Animal handling",
+        "Calcium imaging",
+        "Brain sectioning",
+        "Microscopy",
+        "Data analysis",
+        "Neuroscience research",
+        "3D printing",
+        "Neurobiology",
+        "Alzheimer's disease",
+        "Immunofluorescence",
+        "Algorithmic optimization",
+        "engineering design",
+        "computational modeling",
+        "technical documentation",
+        "neural engineering",
+        "autonomous systems",
+        "Data-Driven Analytics",
+        "Automated Behavioral Signal Extraction",
+        "Linux (command line & shell scripting)",
+        "Hardware-Software Integration",
+        "Sensor Fusion",
+        "Immunofluorescence labeling",
+        "Confocal microscopy",
+        "Machine learning",
+        "Neuroinflammation",
+        "Neuronal activity patterns",
+        "Rapid prototyping",
+        "Systems integration",
+        "Microfluidics",
+        "Robotics",
+        "Hardware development",
+        "Electronics prototyping",
+        "Program planning",
+        "Thermal and flow testing",
+        "Neuronal and behavior analysis",
+        "Microcontroller-driven autonomous rovers",
+        "Multi-sensor integration",
+        "Sensor Integration",
+        "Autonomous systems engineering",
+        "Electronics integration",
+        "Data-driven engineering",
+        "Microcontroller programming",
+        "Autonomous navigation",
+        "Research program planning",
+        "Embedded systems",
+        "Data-driven analysis",
+        "Electronics",
+        "Hardware Design",
+        "3D Printing (SLA, FDM)",
+        "Laser Cutting",
+        "Thermal Testing",
+        "Fatigue Testing",
+        "Hardware Validation",
+        "Failure Mode Analysis",
+        "Root Cause Analysis",
+        "Test Plan Development",
+        "Soldering",
+        "Welding",
+        "Microcontroller-driven Systems",
+        "PID Control",
+        "Imaging Systems",
+        "Product design",
+        "Manufacturing processes",
+        "Product safety",
+        "Engineering ethics",
+        "Op-amp circuits",
+        "Filter design",
+        "ECG amplifier",
+        "Modeling and simulation",
+        "Signal processing",
+        "Neural circuit modeling",
+        "Computational neuroscience",
+        "Machine learning in biological research",
+        "Neural circuit mapping",
+        "Whole-brain modeling",
+        "3D fabrication and design",
+        "LifeCanvas protocol",
+        "Wireless and battery operated miniscope system",
+        "Monosynaptic rabies tracing",
+        "Three-dimensional cellular resolution mapping",
+        "Wireless in vivo GCaMP6-based calcium imaging",
+        "Spatial Coding",
+        "Light sheet microscopy",
+        "GCaMP6-based calcium imaging",
+        "Experimental Procedures",
+        "Iterative Design",
+        "Hardware/Software Integration",
+        "Technical writing",
+        "Documentation best practices",
+        "Agile development",
+        "Object-Oriented Programming",
+        "Agile Methodologies",
+        "Data Structures and Algorithms",
+        "Agile Methodology",
+        "Distributed Systems"
+      ],
+      "design_and_fabrication": [
+        "SOLIDWORKS",
+        "Adobe Photoshop",
+        "3D printing",
+        "Soldering",
+        "Laser Cutting",
+        "Welding"
+      ]
+    },
+    "soft_skills": [
+      "Collaboration",
+      "Adaptability",
+      "Dedication",
+      "Leadership",
+      "Initiative",
+      "Communication",
+      "Collaborative problem solving",
+      "Passion for interdisciplinary work",
+      "attention to detail",
+      "project management",
+      "Stakeholder Communication",
+      "Fast-paced Delivery",
+      "Cross-functional collaboration",
+      "Inventory Management",
+      "Technical Reporting",
+      "Protocol Development",
+      "Animal Research",
+      "decision making",
+      "resilience",
+      "negotiation",
+      "conflict management",
+      "Interdisciplinary collaboration",
+      "Problem-solving",
+      "Data analysis",
+      "Critical thinking",
+      "Organization",
+      "Technical communication",
+      "Ownership",
+      "Mechanical intuition",
+      "Systems-level thinking",
+      "Mentorship",
+      "Mentorship and Training",
+      "Team Leadership",
+      "Collaborative leadership",
+      "Mentoring",
+      "Iterative design",
+      "Engineering design",
+      "Systems Integration",
+      "Cross-functional Project Execution",
+      "Rapid Prototyping",
+      "Rigorous Validation Testing",
+      "Proactive and Adaptable Mindset",
+      "Alternative manufacturing approaches",
+      "Forecasting hardware and software needs",
+      "Building detailed timelines",
+      "Identifying bottlenecks",
+      "Maintaining a proactive, adaptable mindset",
+      "Adaptable mindset",
+      "Customer interaction",
+      "User training",
+      "Highly adaptable",
+      "Resilient",
+      "Reliable",
+      "Technical problem solving",
+      "Clear reporting",
+      "Execution in dynamic environments",
+      "Adaptable",
+      "Curious",
+      "Eager to learn",
+      "Able to work in a team",
+      "Ethical decision-making",
+      "Ethical decision making",
+      "Commitment to public welfare",
+      "Ownership and systems-level thinking",
+      "Autonomous",
+      "Hard worker",
+      "Lecturing",
+      "Research",
+      "Curiosity",
+      "Scientific inquiry",
+      "Interdisciplinary research",
+      "Interdisciplinary approach",
+      "Ability to simplify complex concepts",
+      "Technical documentation and academic writing",
+      "Excellent communication skills",
+      "Technical Writing",
+      "Teamwork"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Japanese",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Mandarin Chinese",
+        "proficiency": "Native"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect - Associate",
+        "issuer": "Amazon Web Services",
+        "date_obtained": "2022-03",
+        "expiry_date": "2025-03"
+      },
+      {
+        "name": "Cert Name",
+        "issuer": "Issuer",
+        "date_obtained": "YYYY-MM",
+        "expiry_date": "YYYY-MM or null"
+      },
+      {
+        "name": "CITI Training in Animal Research",
+        "issuer": "CITI Program",
+        "date_obtained": "2020-01",
+        "expiry_date": null
+      },
+      {
+        "name": "Human Subject Research",
+        "issuer": "CITI Program",
+        "date_obtained": "2025-04",
+        "expiry_date": "2030-04"
+      },
+      {
+        "name": "Lab Animal Research",
+        "issuer": "CITI Program",
+        "date_obtained": "2025-01-10",
+        "expiry_date": "2028-01-10"
+      },
+      {
+        "name": "Technical Writing Professional Certificate",
+        "issuer": "University of California, Berkeley",
+        "date_obtained": "2018-06",
+        "expiry_date": null
+      },
+      {
+        "name": "MATLAB Onramp",
+        "issuer": "MathWorks",
+        "date_obtained": "2020-05",
+        "expiry_date": null
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Personal Finance Tracker",
+      "description": "Built full-stack web app for tracking expenses and budgets",
+      "role": "Developer",
+      "start_date": "2023-01",
+      "end_date": "2023-03",
+      "technologies": [
+        "React",
+        "Python",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "outcomes": [
+        "Implemented data visualization with Chart.js",
+        "Deployed on AWS with automated backups"
+      ],
+      "github_url": "github.com/johndoe/finance-tracker",
+      "demo_url": null,
+      "id": "f4a52c8e-3c6c-4edf-9a85-3042c292e904",
+      "extracted_date": "2026-01-01T12:24:15.678953"
+    },
+    {
+      "name": "Project Name",
+      "description": "Brief description",
+      "role": "Your role",
+      "start_date": "YYYY-MM",
+      "end_date": "YYYY-MM or null",
+      "technologies": [
+        "tech1",
+        "tech2"
+      ],
+      "outcomes": [
+        "outcome1",
+        "outcome2"
+      ],
+      "github_url": "url or null",
+      "demo_url": "url or null",
+      "id": "e2498dae-fa05-4ddd-9557-95092e46c49e",
+      "extracted_date": "2026-01-02T09:28:06.883434"
+    },
+    {
+      "name": "Three-Dimensional Cellular Resolution Mapping of Cerebral Amyloid Angiopathy and Neurovascular Astrocytic Neuroinflammation in the brain of the Octodon Degus, a Natural Animal Model for Alzheimer's Disease",
+      "description": "Project investigating cerebral amyloid angiopathy and the associated astrocyte neuroinflammation in young and aged degus",
+      "role": "Lead the 3D printing portion of the project",
+      "start_date": "2024-01",
+      "end_date": null,
+      "technologies": [
+        "3D printing"
+      ],
+      "outcomes": [
+        "Awarded a $3,000 UROP/Calit2 Interdisciplinary Research Teams award"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "fb467ce3-ff05-4d16-8477-797c8f87749d",
+      "extracted_date": "2026-01-02T09:28:57.846226"
+    },
+    {
+      "name": "In vivo behavior experiments on miniscope-implanted mice",
+      "description": "Project conducting in vivo behavior experiments on miniscope-implanted mice",
+      "role": "Contributed to the behavior extraction pipeline, employing machine learning techniques to streamline data processing and analysis",
+      "start_date": "2022-01",
+      "end_date": null,
+      "technologies": [
+        "MATLAB",
+        "DeepLabCut"
+      ],
+      "outcomes": [],
+      "github_url": null,
+      "demo_url": null,
+      "id": "1023f64c-fb40-4d24-8dad-8067667aaee1",
+      "extracted_date": "2026-01-02T09:28:57.846298"
+    },
+    {
+      "name": "Plasticity in the Degu Forebrain",
+      "description": "Investigated plasticity in the degu forebrain through two plasticity mediators: perineuronal nets and microglia",
+      "role": "Contributor",
+      "start_date": "2023-09",
+      "end_date": "2024-06",
+      "technologies": [
+        "Immunostaining",
+        "Neuronal cell counting"
+      ],
+      "outcomes": [
+        "Co-authored publication in Frontiers in Neuroscience"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "ca189354-5d3a-45f3-bd89-6ead14bf70cc",
+      "extracted_date": "2026-01-02T09:29:16.409417"
+    },
+    {
+      "name": "3D Space Navigation in Mice",
+      "description": "Explored the complexities of mouse 3D space navigation using in vivo calcium imaging with miniature fluorescent microscopes (miniscopes)",
+      "role": "Contributor",
+      "start_date": "2023-06",
+      "end_date": "2024-06",
+      "technologies": [
+        "MATLAB",
+        "DeepLabCut",
+        "Calcium imaging"
+      ],
+      "outcomes": [
+        "Developed and integrated functionalities for precise tracking of mouse movements",
+        "Compiled a comprehensive guide for the installation and use of DeepLabCut"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "1bc2ad01-8a37-4ad0-ae49-0aef74995314",
+      "extracted_date": "2026-01-02T09:29:16.409478"
+    },
+    {
+      "name": "EEG Lab Recording and Analysis of Human EEG Signals",
+      "description": "Recorded EEG signals under two conditions: eyes open/closed and hand grasp/relax. Analyzed the power spectral density of the signals to observe changes in alpha and mu rhythms.",
+      "role": "Researcher",
+      "start_date": "2025-04",
+      "end_date": "2025-04",
+      "technologies": [
+        "MATLAB",
+        "EEG"
+      ],
+      "outcomes": [
+        "Demonstrated modulation of alpha and mu rhythms in response to sensory and motor behaviors",
+        "Validated expected EEG signal patterns"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "e2f644b2-7b61-4de3-a1e9-92dc52744b86",
+      "extracted_date": "2026-01-02T09:30:25.189430"
+    },
+    {
+      "name": "Custom hardware for high-precision applications",
+      "description": "Developed custom hardware for high-precision applications",
+      "role": "Developer",
+      "start_date": null,
+      "end_date": null,
+      "technologies": [
+        "hardware design",
+        "precision engineering"
+      ],
+      "outcomes": [
+        "Developed custom hardware solutions"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "18ed9428-71e3-4577-beb5-413e60fc42b1",
+      "extracted_date": "2026-01-02T09:30:35.041971"
+    },
+    {
+      "name": "Data-driven analytics for automated behavioral signal extraction",
+      "description": "Developed data-driven analytics for automated behavioral signal extraction",
+      "role": "Developer",
+      "start_date": null,
+      "end_date": null,
+      "technologies": [
+        "data analytics",
+        "signal processing",
+        "automation"
+      ],
+      "outcomes": [
+        "Developed automated behavioral signal extraction solutions"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "a2b68105-fda2-475e-8e8d-7b3f3292f524",
+      "extracted_date": "2026-01-02T09:30:35.042114"
+    },
+    {
+      "name": "Lab #3 Report",
+      "description": "Gain familiarity with op-amps, high gain differential amplifiers, and their basic applications. Implemented four different op-amp circuits including a voltage follower, inverting amplifier, non-inverting amplifier, and summing circuit.",
+      "role": "Student",
+      "start_date": "2024-04",
+      "end_date": "2024-05-10",
+      "technologies": [
+        "Operational Amplifiers",
+        "Voltage Follower",
+        "Inverting Amplifier",
+        "Non-Inverting Amplifier",
+        "Summing Circuit"
+      ],
+      "outcomes": [
+        "Analyzed the functions of the op-amp circuits using a function generator and an oscilloscope",
+        "Evaluated the functionality, gain, linearity, and impedance of each circuit in response to different input signals"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "1afecad4-cea8-4b72-97ef-ea6aecfe29fb",
+      "extracted_date": "2026-01-02T09:31:58.134132"
+    },
+    {
+      "name": "Fitness Tracker",
+      "description": "Developed a fitness tracker using Arduino IDE, incorporating an Arduino microcontroller, barometer, and accelerometer for step count and altitude tracking.",
+      "role": "Team Lead",
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "technologies": [
+        "Arduino IDE",
+        "Arduino",
+        "Barometer",
+        "Accelerometer"
+      ],
+      "outcomes": [
+        "Achieved 90% accuracy in step count and altitude measurement."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "9d0b9484-c982-4052-a59b-f7ae61b3ad22",
+      "extracted_date": "2026-01-02T09:33:19.931604"
+    },
+    {
+      "name": "Endoscope Holder",
+      "description": "Developed an endoscope holder using SOLIDWORKS and 3D printing.",
+      "role": "Team Lead",
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "technologies": [
+        "SOLIDWORKS",
+        "3D Printing"
+      ],
+      "outcomes": [
+        "Applied knowledge of physics and consumer needs to improve on existing endoscope holder designs."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "c5a4c4c4-19fc-4bfc-9290-642be7344421",
+      "extracted_date": "2026-01-02T09:33:19.931635"
+    },
+    {
+      "name": "Remote Controlled Rover",
+      "description": "Designed and built a remote controlled rover.",
+      "role": "Team Member",
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "technologies": [],
+      "outcomes": [
+        "Led fabrication and electronics prototyping."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "43fb8fed-e2fd-4f64-9eee-afdebae77347",
+      "extracted_date": "2026-01-02T09:33:19.931663"
+    },
+    {
+      "name": "Image Compressor",
+      "description": "Utilized lossy compression and block truncation to compress and display images.",
+      "role": "Individual Project",
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "technologies": [],
+      "outcomes": [],
+      "github_url": null,
+      "demo_url": null,
+      "id": "cf140aa7-a0e0-42f9-9589-8fe4a85e1e67",
+      "extracted_date": "2026-01-02T09:33:19.931690"
+    },
+    {
+      "name": "Degu Tissue Holder",
+      "description": "Designed a custom tissue holder for tissue clearing and immunolabeling of Octodon Degus (degu) brain hemispheres using Solidworks and Intamsuite Neo.",
+      "role": "Individual Project",
+      "start_date": "2022-07",
+      "end_date": null,
+      "technologies": [
+        "SOLIDWORKS",
+        "Intamsuite Neo"
+      ],
+      "outcomes": [
+        "Optimized design for more efficient and cost-effective experiments, while prioritizing compatibility with existing clearing equipment."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "c8d079c8-d347-4a90-9835-2a93afe9fd3e",
+      "extracted_date": "2026-01-02T09:33:19.931716"
+    },
+    {
+      "name": "Optical Dipping Window for Light Sheet Microscopy",
+      "description": "Improved the design of an optical dipping window by increasing the depth of the lens-holding component, enhancing imaging capabilities for cleared specimens.",
+      "role": "Individual Project",
+      "start_date": "2022-07",
+      "end_date": null,
+      "technologies": [
+        "SOLIDWORKS",
+        "Intamsuite Neo",
+        "3D Printing"
+      ],
+      "outcomes": [
+        "3D modeled and printed the modified part in Solidworks and Intamsuite Neo, optimizing it for integration into the existing microscopy system.",
+        "Addressed a design flaw in the original shallow window, ensuring consistent immersion and minimizing disruptions to image quality during week-long imaging sessions."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "e3c788a1-6c8c-490f-a5c5-1130e7dd3e5a",
+      "extracted_date": "2026-01-02T09:33:19.931748"
+    },
+    {
+      "name": "Infant EEG Cap",
+      "description": "Designed an EEG cap prototype for infant heads, addressing size limitations and skin sensitivity to improve comfort.",
+      "role": "Individual Project",
+      "start_date": "2022-07",
+      "end_date": null,
+      "technologies": [],
+      "outcomes": [
+        "Demonstrated improved long-term recording quality with reduced noise and impedance levels, while minimizing scalp abrasions and pressure marks."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "534df0e9-6ac3-47a4-a991-b5cda7c234c8",
+      "extracted_date": "2026-01-02T09:33:19.931777"
+    },
+    {
+      "name": "3D Spatial Navigation Experiment",
+      "description": "Investigated 3D spatial navigation dynamics using in vivo calcium imaging with a wirefree miniscope",
+      "role": null,
+      "start_date": null,
+      "end_date": null,
+      "technologies": [
+        "DeepLabCut",
+        "MATLAB"
+      ],
+      "outcomes": [],
+      "github_url": null,
+      "demo_url": null,
+      "id": "1111cc28-50b0-49b5-a4f6-b3d10e9696a6",
+      "extracted_date": "2026-01-02T09:33:38.392377"
+    },
+    {
+      "name": "CNMF-E Extraction for Neuronal Data Processing",
+      "description": "Optimized existing CNMF-E (Extended Constrained Nonnegative Matrix Factorization) pipeline to handle large data sets efficiently, improving workflow",
+      "role": null,
+      "start_date": null,
+      "end_date": null,
+      "technologies": [
+        "DeepLabCut",
+        "MATLAB"
+      ],
+      "outcomes": [
+        "Incorporated custom functions to enable behavior extraction using DeepLabCut pose estimation, ensuring accurate tracking of mouse movements during in vivo experiments",
+        "Designed functionalities for plotting firing trajectories and calculating spatial heat maps"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "89dddd40-69df-4515-a6fe-257c02793e60",
+      "extracted_date": "2026-01-02T09:33:38.392424"
+    },
+    {
+      "name": "3D Mapping of Cerebral Amyloid Angiopathy and Neuroinflammation in Octodon Degus",
+      "description": "Integrates engineering, biology, and chemistry to assess CAA related astrocytic neuroinflammation in young and aged degu brains",
+      "role": "Lead",
+      "start_date": null,
+      "end_date": null,
+      "technologies": [
+        "3D printing",
+        "Solidworks",
+        "Intamsuite Neo"
+      ],
+      "outcomes": [
+        "Led 3D modeling and printing of custom hardware to accommodate unconventional tissue sizes",
+        "Granted $3,000 through the UROP Calit2 interdisciplinary research teams project award"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "62c4ecf0-85ce-429f-86d3-406aa9aa6d2f",
+      "extracted_date": "2026-01-02T09:33:38.392502"
+    },
+    {
+      "name": "Dorsal Subiculum Connectivity Alterations in Alzheimer's Model Mice",
+      "description": "Cut, mounted, and scanned mouse brain tissue to prepare for analysis",
+      "role": null,
+      "start_date": null,
+      "end_date": null,
+      "technologies": [],
+      "outcomes": [
+        "Conducted comprehensive analysis to discern and quantify neuronal signals"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "c1a0b636-9a04-495a-ad14-a78c941a26ac",
+      "extracted_date": "2026-01-02T09:33:38.392553"
+    },
+    {
+      "name": "Forebrain Developmental Plasticity in Octodon Degus",
+      "description": "Provided secondary analysis of degu tissue samples",
+      "role": null,
+      "start_date": null,
+      "end_date": null,
+      "technologies": [
+        "MATLAB"
+      ],
+      "outcomes": [
+        "Wrote and incorporated custom MATLAB scripts enabling streamlined analysis of experimental data"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "43749778-1ab7-4cef-afa1-fce00e37c8de",
+      "extracted_date": "2026-01-02T09:33:38.392597"
+    },
+    {
+      "name": "Neuronal and Behavior Analysis Pipeline",
+      "description": "Developed a custom pipeline for real-time neuronal and behavior analysis",
+      "role": "Lead Developer",
+      "start_date": "2021-09",
+      "end_date": "2023-06",
+      "technologies": [
+        "Python",
+        "Matlab"
+      ],
+      "outcomes": [
+        "Improved dataset processing times by over 90%",
+        "Offered a standardized method of real-time neuronal analysis lab-wide"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "d4083215-c5fa-4927-b56a-46e2e20c9aee",
+      "extracted_date": "2026-01-02T09:35:31.702083"
+    },
+    {
+      "name": "Industry-Sponsored Point-of-Care Diagnostic Device",
+      "description": "Led the development and testing of microfluidic components for an industry-sponsored point-of-care diagnostic device under mission-critical constraints",
+      "role": "Engineering Development and Rapid Prototyping Lead",
+      "start_date": "2019-01",
+      "end_date": null,
+      "technologies": [
+        "Microfluidics",
+        "3D printing",
+        "Hardware development"
+      ],
+      "outcomes": [
+        "Rapidly pivoted to in-house fabrication methods to maintain project timelines when budget limitations eliminated CNC machining of 3D microfluidic channels",
+        "Iterated over multiple channel geometries to validate a design that optimized passive mixing while maintaining flow uniformity when SLA 3D printer resolution proved insufficient for required channel tolerances"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "6383e1ca-99b1-4960-8bfd-4cd285e13e1a",
+      "extracted_date": "2026-01-02T09:37:52.166476"
+    },
+    {
+      "name": "Autonomous Rover Development",
+      "description": "Coached student teams through the complete development cycle of microcontroller-driven autonomous rovers, delivering instruction in electronics prototyping fundamentals, Solidworks mechanical design, Arduino/C++ embedded programming, and multi-sensor data fusion for autonomous navigation",
+      "role": "Engineering Development and Rapid Prototyping Lead",
+      "start_date": "2019-01",
+      "end_date": "2022-06",
+      "technologies": [
+        "Arduino",
+        "C++",
+        "Solidworks",
+        "Autonomous systems engineering",
+        "Electronics integration"
+      ],
+      "outcomes": [
+        "Delivered instruction in electronics prototyping fundamentals, Solidworks mechanical design, Arduino/C++ embedded programming, and multi-sensor data fusion for autonomous navigation"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "2ae0f52f-f8b9-4735-aded-281d5f65bb3b",
+      "extracted_date": "2026-01-02T09:37:52.166557"
+    },
+    {
+      "name": "Microfluidic Delivery System",
+      "description": "Designed, prototyped, and tested a novel microfluidic delivery system for a client diagnostic device",
+      "role": "Project Lead",
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "technologies": [
+        "3D printing",
+        "CNC machining",
+        "Microfluidics"
+      ],
+      "outcomes": [
+        "Demonstrated commercial and technical acumen in navigating go-to-market strategy",
+        "Pivoted to alternative in-house fab methods to maintain timelines",
+        "Iterated over multiple channel geometries to optimize passive mixing and flow uniformity"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "88e44a3b-c59c-428d-a3e0-51ed97d52a11",
+      "extracted_date": "2026-01-02T09:38:02.654537"
+    },
+    {
+      "name": "Senior Capstone Project",
+      "description": "Led the development and testing of microfluidic components for an industry-sponsored point-of-care diagnostic device under strict technical constraints",
+      "role": "Project Lead",
+      "start_date": "2018-09",
+      "end_date": "2019-06",
+      "technologies": [
+        "Microfluidics",
+        "3D printing",
+        "Rapid prototyping"
+      ],
+      "outcomes": [
+        "Pivoted to creative in-house fabrication methods to maintain project timelines when budget limitations eliminated CNC machining",
+        "Iterated over multiple channel geometries to validate a design that optimized passive mixing while maintaining flow uniformity"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "b7acdfce-6f7e-4f0e-8363-414eb222b809",
+      "extracted_date": "2026-01-02T09:38:45.874499"
+    },
+    {
+      "name": "Microcontroller-driven autonomous rovers",
+      "description": "Coached student teams through the complete development cycle of microcontroller-driven autonomous rovers, delivering instruction in electronics prototyping fundamentals\u2014component soldering techniques, sensor array integration, and comprehensive circuit testing protocols",
+      "role": "Teaching Assistant",
+      "start_date": "2019-01",
+      "end_date": "2022-06",
+      "technologies": [
+        "Solidworks",
+        "Arduino/C++",
+        "Sensor integration",
+        "Autonomous systems"
+      ],
+      "outcomes": [
+        "Prepared students for the exacting standards of unmanned vehicle development"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "fcf3c3e3-2f61-4516-886e-e4a2e9c1efa0",
+      "extracted_date": "2026-01-02T09:39:08.844271"
+    },
+    {
+      "name": "Point-of-Care Diagnostic Device",
+      "description": "Led the development and testing of microfluidic components for an industry-sponsored point-of-care diagnostic device under mission-critical constraints",
+      "role": "Engineering Development and Rapid Prototyping Lead",
+      "start_date": "2020-01",
+      "end_date": "2022-12",
+      "technologies": [
+        "Microfluidics",
+        "3D printing",
+        "Hardware development",
+        "Rapid prototyping"
+      ],
+      "outcomes": [
+        "Rapidly pivoted to in-house fabrication methods to maintain project timelines when budget limitations eliminated CNC machining of 3D microfluidic channels",
+        "Iterated over multiple channel geometries to validate a design that optimized passive mixing while maintaining flow uniformity when SLA 3D printer resolution proved insufficient for required channel tolerances"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "868021d6-d203-49d3-9442-8e9196025cb2",
+      "extracted_date": "2026-01-02T09:39:22.592369"
+    },
+    {
+      "name": "Point-of-care Microfluidic Cartridge for Glycated Albumin Monitoring",
+      "description": "Led rapid prototype development for microfluidic components using 3D modeling and fabrication, optimizing fluid dynamics for efficient blood filtration and reagent mixing.",
+      "role": "Project Lead",
+      "start_date": "2024-09",
+      "end_date": "2025-06",
+      "technologies": [
+        "Microfluidics",
+        "3D Modeling",
+        "3D Printing",
+        "CNC Machining",
+        "Laser Cutting"
+      ],
+      "outcomes": [
+        "Produced microfluidic components and modular housings using CNC machining, laser cutting, and 3D printing (SLA, FDM).",
+        "Ensured adherence to clinical regulatory standards, prioritizing safety and compliance."
+      ],
+      "id": "1b2d573d-0bbc-4791-ba3a-532263090a9e",
+      "extracted_date": "2026-01-02T09:43:57.724829"
+    },
+    {
+      "name": "Microfluidic Cartridge Development",
+      "description": "Designed and prototyped microfluidic components for a point-of-care diagnostic device",
+      "role": "Research and Development Engineer",
+      "start_date": "2024-09",
+      "end_date": "2025-06",
+      "technologies": [
+        "Microfluidics",
+        "CNC Machining",
+        "Laser Cutting",
+        "3D Printing (SLA, FDM)"
+      ],
+      "outcomes": [
+        "Optimized channel geometry for improved mixing efficiency",
+        "Conducted failure mode testing to improve device sealing and homogenization"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "e2d8d11d-83d5-4036-8a32-92597febfebb",
+      "extracted_date": "2026-01-02T09:51:48.104021"
+    },
+    {
+      "name": "Behavioral Analysis Pipeline",
+      "description": "Integrated machine learning algorithms into a MATLAB-based behavior extraction pipeline",
+      "role": "Undergraduate Research Assistant",
+      "start_date": "2022-06",
+      "end_date": "2025-03",
+      "technologies": [
+        "MATLAB",
+        "Machine Learning",
+        "Python"
+      ],
+      "outcomes": [
+        "Reduced processing time by 90%+ and improved reproducibility of neural analysis",
+        "Authored technical protocols and visual materials for lab-wide implementation"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "9f95fad3-9022-495f-b246-046989270208",
+      "extracted_date": "2026-01-02T09:51:48.104128"
+    },
+    {
+      "name": "Microfluidic Diagnostic Device",
+      "description": "Senior design project to develop a microfluidic diagnostic device",
+      "role": "Project Lead",
+      "start_date": "2024-09",
+      "end_date": "2025-06",
+      "technologies": [
+        "Microfluidics",
+        "CNC Machining",
+        "Laser Cutting",
+        "3D Printing (SLA, FDM)"
+      ],
+      "outcomes": [
+        "Transitioned to in-house fabrication methods and built validation workflows that enabled rapid iteration and testing",
+        "Translated data from hardware sensors into interpretable performance metrics"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "41064cb4-9943-43e7-93bb-7fd0b9e3d7a6",
+      "extracted_date": "2026-01-02T09:52:13.366554"
+    },
+    {
+      "name": "Neuronal Analysis Pipeline",
+      "description": "Developed a Python- and MATLAB-based neuronal analysis pipeline for large experimental datasets",
+      "role": "Lead Developer",
+      "start_date": "2022-06",
+      "end_date": "2025-03",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "Machine Learning"
+      ],
+      "outcomes": [
+        "Reduced data processing times by over 90%",
+        "Implemented standardized data cleaning, visualization, and validation protocols to improve reproducibility across multi-site collaborations"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "5281cca3-5cb4-47d0-a088-20edd8d684dd",
+      "extracted_date": "2026-01-02T09:52:13.366631"
+    },
+    {
+      "name": "Mineral Oil Lens for Lightsheet",
+      "description": "Designed and 3D printed a mineral oil lens for the Leica Lightsheet Fluorescence Microscope",
+      "role": "Designer",
+      "start_date": "2022-07",
+      "end_date": null,
+      "technologies": [
+        "3D printing"
+      ],
+      "outcomes": [],
+      "github_url": null,
+      "demo_url": null,
+      "id": "08c098d0-9cb3-42f7-93c9-512023b18d8c",
+      "extracted_date": "2026-01-02T09:54:05.222067"
+    },
+    {
+      "name": "Rover Project",
+      "description": "Built a rover from scratch with a team of 5",
+      "role": "Team Member",
+      "start_date": "2020-01",
+      "end_date": "2020-03",
+      "technologies": [
+        "Engineering Design",
+        "Prototyping"
+      ],
+      "outcomes": [
+        "Learned how to feed my curiosity",
+        "Found my purpose in engineering"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "12f904f4-c3f0-4dbf-bd19-c62fd2f2a637",
+      "extracted_date": "2026-01-02T09:55:00.592794"
+    },
+    {
+      "name": "ECG Instrument",
+      "description": "Designed, constructed, and analyzed an ECG amplifier with a gain of 1000 and a frequency range from 0.01 to 100Hz, using op-amp and filter circuits.",
+      "role": "Student",
+      "start_date": "2024-01",
+      "end_date": "2024-05",
+      "technologies": [
+        "Op-amps",
+        "Instrumentation amplifier",
+        "Band-pass filter"
+      ],
+      "outcomes": [
+        "Measured differential gain, common-mode gain, and common mode rejection ratio",
+        "Analyzed performance and compared to theoretical values"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "c38a9044-9cf5-4b14-bcd6-6d9f731a5e74",
+      "extracted_date": "2026-01-02T09:56:51.721279"
+    },
+    {
+      "name": "Quack",
+      "description": "Qauck quack quack quack qauck",
+      "role": null,
+      "start_date": "2023-01",
+      "end_date": null,
+      "technologies": [],
+      "id": "f7a308a2-0a6c-43ee-9aad-769c3123d55f",
+      "extracted_date": "2026-01-02T09:58:57.733308"
+    },
+    {
+      "name": "ICS: Columns Game",
+      "description": "Object-oriented recreation of Sega's Columns game using third-party library PyGame",
+      "role": null,
+      "start_date": "2022-09",
+      "end_date": null,
+      "technologies": [
+        "PyGame"
+      ],
+      "id": "9e852aba-4eb2-4b4b-9971-a0b2a173b68e",
+      "extracted_date": "2026-01-02T09:58:57.733384"
+    },
+    {
+      "name": "Wireless Miniscope for Spatial Coding Defects in Alzheimer's",
+      "description": "Investigated spatial coding defects in the CA1 region of the hippocampus using in vivo calcium imaging with a wireless miniscope",
+      "role": "Researcher",
+      "start_date": "2023-09",
+      "end_date": null,
+      "technologies": [
+        "Wireless miniscope",
+        "Calcium imaging",
+        "CNMF-E pipeline",
+        "DeepLabCut pose estimation"
+      ],
+      "outcomes": [
+        "Optimized CNMF-E pipeline with DeepLabCut for behavior analysis",
+        "Authored a protocol for laboratory-wide use"
+      ],
+      "id": "08ef769d-38bc-46ff-ae01-1da627873da2",
+      "extracted_date": "2026-01-02T10:01:35.694713"
+    },
+    {
+      "name": "Synaptic Circuit Alterations in the Subiculum of 5xFAD Mice",
+      "description": "Investigated synaptic circuit alterations in the subiculum of 5xFAD mice, an under-researched region of the brain that shows promising evidence as a potential origin for Alzheimer's disease.",
+      "role": "Contributor",
+      "start_date": "2017-09",
+      "end_date": "2019-06",
+      "technologies": [
+        "Neural circuit mapping",
+        "Whole-brain modeling"
+      ],
+      "outcomes": [
+        "Published findings on connectivity shifts in the hippocampus, with notable age-related changes in visual cortical inputs to the subiculum",
+        "Quantitative comparison across sexes highlighted sex-dependent differences, adding a layer of complexity to potential therapeutic strategies"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "4ff66ae1-8993-4bd8-ad17-78af20094fa4",
+      "extracted_date": "2026-01-02T10:01:50.106208"
+    },
+    {
+      "name": "Alzheimer's Disease Pathology in the Octodon Degus (Degu)",
+      "description": "Studied the use of the Octodon Degus (Degu), a social, diurnal, and long lived rodent endemic to Chile, that naturally expresses familial Alzheimer's disease pathology.",
+      "role": "Contributor",
+      "start_date": "2018-09",
+      "end_date": "2020-06",
+      "technologies": [
+        "Alzheimer's disease research",
+        "Unconventional animal models"
+      ],
+      "outcomes": [
+        "Observed shifts in levels of perineuronal nets and microglia in older degus, suggesting parallels with human brain plasticity",
+        "Explored the interplay of plasticity and neurodegeneration in a species that mimics human Alzheimer's pathology"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "ff6f2526-e9ef-4bfc-bcbc-372d71b5eb33",
+      "extracted_date": "2026-01-02T10:01:50.106281"
+    },
+    {
+      "name": "3D Cellular Resolution Mapping of Cerebral Amyloid Angiopathy in Degu Brains",
+      "description": "Assessed cerebral amyloid angiopathy in degu brains using three-dimensional cellular resolution mapping.",
+      "role": "Lead Researcher",
+      "start_date": "2019-01",
+      "end_date": "2020-06",
+      "technologies": [
+        "3D fabrication and design",
+        "LifeCanvas protocol",
+        "Immunolabeling and visualization of A\u00df plaques, astrocytes, and vasculature"
+      ],
+      "outcomes": [
+        "Refined 3D fabrication and design skills to accommodate larger Degu brain hemispheres in standard light sheet microscopy equipment",
+        "Implemented a novel approach to immunolabel and visualize A\u00df plaques, astrocytes, and vasculature in intact brain hemispheres"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "3e772a1f-0a2b-4e30-95ca-f8267498dc65",
+      "extracted_date": "2026-01-02T10:01:50.106344"
+    },
+    {
+      "name": "Wireless Implant for Studying Alzheimer's Disease Pathology and Cognitive Defects",
+      "description": "Studied Alzheimer's disease pathology and related cognitive defects using a wireless implant and in vivo GCaMP6-based calcium imaging with a miniature fluorescent microscope (miniscope).",
+      "role": "Contributor",
+      "start_date": "2018-09",
+      "end_date": null,
+      "technologies": [
+        "Wireless and battery operated miniscope system",
+        "CNMF-E embedded deconvolution algorithm",
+        "OASIS",
+        "DeepLabCut",
+        "Matlab"
+      ],
+      "outcomes": [
+        "Expanded the ability to examine hundreds of brain cells in real time as the animal explores a complex three-dimensional environment",
+        "Integrated the pose estimation tool DeepLabCut into the CNMF-E pipeline, enabling 2D and 3D pose estimation based on transfer learning with deep neural networks"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "5e5eed1b-5587-4456-aa59-555abe9b924c",
+      "extracted_date": "2026-01-02T10:01:50.106406"
+    },
+    {
+      "name": "Monosynaptic Rabies Tracing Reveals Sex- and Age-Dependent Dorsal Subiculum Connectivity Alterations in an Alzheimer's Disease Mouse Model",
+      "description": "Investigated the subiculum of 5xFAD mice, an under-researched region of the brain that shows promising evidence as a potential origin for Alzheimer's disease.",
+      "role": "Co-author",
+      "start_date": "2022-01",
+      "end_date": "2024-01",
+      "technologies": [
+        "Monosynaptic rabies tracing",
+        "Alzheimer's disease mouse models"
+      ],
+      "outcomes": [
+        "Findings showed connectivity shifts in the hippocampus, with age-related changes in visual cortical inputs, adding a layer of complexity to the understanding of Alzheimer's disease.",
+        "Shifts in visual input connectivity, not traditionally associated with Alzheimer's pathology, suggest broader vulnerabilities in the disease."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "6d2f0e2d-99bd-47cb-ad5b-01925a075611",
+      "extracted_date": "2026-01-02T10:02:05.308239"
+    },
+    {
+      "name": "How the Forebrain Transitions to Adulthood: Developmental Plasticity Markers in a Long-Lived Rodent",
+      "description": "Focused on the Octodon Degus (Degu), a social, long-lived rodent endemic to Chile that naturally expresses familial Alzheimer's disease pathology.",
+      "role": "Co-author",
+      "start_date": "2022-01",
+      "end_date": "2024-01",
+      "technologies": [
+        "Octodon Degus (Degu)",
+        "Alzheimer's disease pathology",
+        "Synaptic plasticity"
+      ],
+      "outcomes": [
+        "Observed shifts in perineuronal nets and microglia suggest parallels with human brain plasticity, characterized by windows of adaptability followed by stabilization.",
+        "Studying disease mechanisms in a species that mimics human Alzheimer's pathology provides insights that conventional models cannot."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "76af39ef-8fc2-41ca-aed5-9cf7ff6e8a34",
+      "extracted_date": "2026-01-02T10:02:05.308326"
+    },
+    {
+      "name": "Cerebral Amyloid Angiopathy (CAA) in Degu Brains",
+      "description": "Assessed cerebral amyloid angiopathy (CAA) in degu brains using three-dimensional cellular resolution mapping.",
+      "role": "Lead Researcher",
+      "start_date": "2021-06",
+      "end_date": null,
+      "technologies": [
+        "Three-dimensional cellular resolution mapping",
+        "LifeCanvas protocol",
+        "3D printing"
+      ],
+      "outcomes": [
+        "Implemented a novel approach to immunolabel and visualize A\u00df plaques, astrocytes, and vasculature in intact brain hemispheres.",
+        "Designed and 3D printed a custom tissue holder to accommodate larger degu hemispheres."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "cd49f82d-55a4-476f-b935-8af659f15f58",
+      "extracted_date": "2026-01-02T10:02:05.308397"
+    },
+    {
+      "name": "Wireless In Vivo GCaMP6-based Calcium Imaging",
+      "description": "Investigated 3D spatial navigation and spatial coding defects associated with Alzheimer's using wireless in vivo GCaMP6-based calcium imaging.",
+      "role": "Researcher",
+      "start_date": "2022-01",
+      "end_date": null,
+      "technologies": [
+        "Wireless in vivo GCaMP6-based calcium imaging",
+        "Miniature fluorescent microscope (miniscope)",
+        "CNMF-E deconvolution algorithm",
+        "OASIS",
+        "DeepLabCut",
+        "Matlab"
+      ],
+      "outcomes": [
+        "Expanded the ability to examine brain cells in real time as the animal explores a three-dimensional environment, allowing for more dynamic and natural interactions with its surroundings.",
+        "Integrated the pose estimation tool DeepLabCut into the CNMF-E pipeline to enable 2D and 3D pose estimation based on transfer learning with deep neural networks."
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "0425b250-c1cf-4cab-acb1-7246f39c2926",
+      "extracted_date": "2026-01-02T10:02:05.308464"
+    },
+    {
+      "name": "Monosynaptic Rabies Tracing",
+      "description": "Investigated the subiculum of 5xFAD mice, an under-researched region of the brain that shows promising evidence as a potential origin for Alzheimer's disease",
+      "role": "Co-author",
+      "start_date": "2022-09",
+      "end_date": "2024-06",
+      "technologies": [
+        "Monosynaptic rabies tracing",
+        "Alzheimer's disease mouse model"
+      ],
+      "outcomes": [
+        "Findings showed connectivity shifts in the hippocampus, with age-related changes in visual cortical inputs",
+        "Suggested broader vulnerabilities in Alzheimer's disease beyond traditional pathology"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "f4226363-be01-4c15-8240-71dcb74561dc",
+      "extracted_date": "2026-01-02T10:02:17.426179"
+    },
+    {
+      "name": "Developmental Plasticity in Degu",
+      "description": "Focused on the Octodon Degus (Degu), a social, long-lived rodent endemic to Chile that naturally expresses familial Alzheimer's disease pathology",
+      "role": "Co-author",
+      "start_date": "2022-09",
+      "end_date": "2024-06",
+      "technologies": [
+        "Alzheimer's disease pathology",
+        "Long-lived rodent model"
+      ],
+      "outcomes": [
+        "Observed shifts in perineuronal nets and microglia suggest parallels with human brain plasticity",
+        "Provided insights into the complexities underlying Alzheimer's disease that conventional models cannot"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "68ee7ee5-5064-40b8-b62f-ad861c08082d",
+      "extracted_date": "2026-01-02T10:02:17.426276"
+    },
+    {
+      "name": "Cerebral Amyloid Angiopathy in Degu Brains",
+      "description": "Assessed cerebral amyloid angiopathy (CAA) in degu brains using three-dimensional cellular resolution mapping",
+      "role": "Researcher",
+      "start_date": "2021-06",
+      "end_date": "2022-06",
+      "technologies": [
+        "3D cellular resolution mapping",
+        "LifeCanvas protocol",
+        "Immunolabeling",
+        "A\u03b2 plaques, astrocytes, and vasculature visualization"
+      ],
+      "outcomes": [
+        "Designed and 3D printed a custom tissue holder to accommodate larger degu hemispheres",
+        "Demonstrated the potential of bridging the gap between engineering and neuroscience"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "22b024f6-b389-441a-90ba-11bdf05412f8",
+      "extracted_date": "2026-01-02T10:02:17.426351"
+    },
+    {
+      "name": "Wireless Implant for Alzheimer's Research",
+      "description": "Studied Alzheimer's disease pathology and related cognitive defects using a wireless implant",
+      "role": "Researcher",
+      "start_date": "2021-09",
+      "end_date": null,
+      "technologies": [
+        "In vivo GCaMP6-based calcium imaging",
+        "Miniature fluorescent microscope (miniscope)",
+        "Wireless system",
+        "3D spatial navigation",
+        "Matlab",
+        "CNMF-E",
+        "OASIS",
+        "DeepLabCut"
+      ],
+      "outcomes": [
+        "Expanded the ability to examine brain cells in real time as the animal explores a three-dimensional environment",
+        "Integrated the pose estimation tool DeepLabCut into the CNMF-E pipeline to enable 2D and 3D pose estimation based on transfer learning with deep neural networks",
+        "Laid the groundwork for a broader application of machine learning in biological research"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "e339ef72-b6df-4730-9856-85b25567ef87",
+      "extracted_date": "2026-01-02T10:02:17.426419"
+    },
+    {
+      "name": "Assessing Cerebral Amyloid Angiopathy in Degu Brains",
+      "description": "Assessed cerebral amyloid angiopathy (CAA) in degu brains using three-dimensional cellular resolution mapping",
+      "role": "Student Lead",
+      "start_date": "2023-01",
+      "end_date": null,
+      "technologies": [
+        "LifeCanvas SmartBatch+ protocol",
+        "3D Imaging"
+      ],
+      "outcomes": [
+        "Explored CAA and astrocytic neuroinflammation in three dimensions",
+        "Designed and 3D printed a custom tissue holder for larger degu hemispheres"
+      ],
+      "id": "0bd60ec3-fcce-46af-8ff0-a69405244e94",
+      "extracted_date": "2026-01-02T10:02:27.122319"
+    },
+    {
+      "name": "Wireless Implant for Alzheimer's Disease Pathology and Cognitive Defects",
+      "description": "Studied Alzheimer's disease pathology and related cognitive defects using a wireless implant",
+      "role": "Researcher",
+      "start_date": "2023-06",
+      "end_date": null,
+      "technologies": [
+        "In vivo GCaMP6-based calcium imaging",
+        "Miniature fluorescent microscope (miniscope)",
+        "Wireless system",
+        "CNMF-E deconvolution algorithm",
+        "OASIS",
+        "DeepLabCut"
+      ],
+      "outcomes": [
+        "Expanded the ability to examine brain cells in real time as the animal explores a three-dimensional environment",
+        "Integrated the pose estimation tool DeepLabCut into the CNMF-E pipeline"
+      ],
+      "id": "cd4389cb-1b3e-4f23-8dd1-c4277140a027",
+      "extracted_date": "2026-01-02T10:02:27.122405"
+    },
+    {
+      "name": "Assessing cerebral amyloid angiopathy (CAA) in degu brains",
+      "description": "Using the LifeCanvas SmartBatch+ protocol, we immunolabeled and visualized A\u00df plaques, astrocytes, and vasculature in cleared, intact brain hemispheres to explore CAA and astrocytic neuroinflammation in three dimensions.",
+      "role": "Student Researcher",
+      "start_date": "2023-01",
+      "end_date": null,
+      "technologies": [
+        "3D cellular resolution mapping",
+        "LifeCanvas SmartBatch+ protocol"
+      ],
+      "outcomes": [
+        "Explored CAA and astrocytic neuroinflammation in three dimensions",
+        "Designed and 3D printed a custom tissue holder for analyzing larger degu hemispheres"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "65f8b14c-4b0b-4745-a133-629686e943ec",
+      "extracted_date": "2026-01-02T10:02:43.154810"
+    },
+    {
+      "name": "Wireless Implant for Studying Alzheimer's Disease Pathology",
+      "description": "Studied Alzheimer's disease pathology and related cognitive defects using a wireless implant and in vivo GCaMP6-based calcium imaging",
+      "role": "Researcher",
+      "start_date": "2018-09",
+      "end_date": null,
+      "technologies": [
+        "Wireless implant",
+        "GCaMP6-based calcium imaging",
+        "CNMF-E and OASIS algorithms",
+        "DeepLabCut pose estimation"
+      ],
+      "outcomes": [
+        "Expanded the scope of behavioral study by using a wireless and battery-operated system",
+        "Enabled the examination of hundreds of brain cells in real-time as the animal explores a complex three-dimensional environment",
+        "Developed custom functions to integrate the pose estimation tool DeepLabCut into the CNMF-E pipeline, streamlining the analysis of neuronal activity patterns and animal behavior"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "a1e97a79-6fa2-4ee9-8e4c-89e12379acdb",
+      "extracted_date": "2026-01-02T10:02:50.620005"
+    },
+    {
+      "name": "Project Design Testing",
+      "description": "Objective of this project is to develop an innovative glycated albumin monitoring device specifically designed for intermediate-term use in Type II diabetes management. Current solutions, such as daily blood glucose testing and glycated hemoglobin (A1C) assays [1], fail to provide essential insights into the 2-4 week range of glucose fluctuations [3].",
+      "role": "Your role",
+      "start_date": "2024-01",
+      "end_date": null,
+      "technologies": [
+        "Step 1: Insert blood into the collection module",
+        "Step 2: Insert the collection module to the main cartridge",
+        "Step 3: Screw in the cap on the collection module",
+        "Step 4: Cartridge filters plasma and mixes the solution",
+        "Step 5: Mixed plasma passes over electrode, sensing GA concentration"
+      ],
+      "outcomes": [
+        "Reveals 2-4 week levels [3]",
+        "Can monitor gestational diabetes",
+        "Higher accuracy and lessened issues compared to other tests",
+        "Direct implication as a factor in diabetes complications",
+        "Real-time monitoring of glucose levels",
+        "Provides detailed data on glucose trends",
+        "Reduces the need for frequent fingerstick tests"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "ff69d289-592c-45ee-a625-11f5a8cda498",
+      "extracted_date": "2026-01-02T10:02:55.018693"
+    },
+    {
+      "name": "Three-Dimensional Mapping of Cerebral Amyloid Angiopathy and Neurovascular Astrocytic Neuroinflammation in the Brain of the Octodon Degus, a Natural Animal Model for Alzheimer's Disease",
+      "description": "Poster presentation at the 2024 UROP Symposium",
+      "role": "Presenter",
+      "start_date": "2024-01",
+      "end_date": null,
+      "technologies": [],
+      "outcomes": [],
+      "github_url": null,
+      "demo_url": null,
+      "id": "3c234fe8-bfe4-4420-ad20-7a4a18afd442",
+      "extracted_date": "2026-01-02T10:03:07.689464"
+    },
+    {
+      "name": "Microfluidic Cartridge with Electrochemical Sensor",
+      "description": "Addressing limitations in traditional diabetes diagnostics by integrating a microfluidic cartridge with an electrochemical sensor to assess glycated albumin fluctuations over a 2-3 week period",
+      "role": "Contributor",
+      "start_date": "2022-01",
+      "end_date": null,
+      "technologies": [
+        "Microfluidics",
+        "Electrochemical Sensors",
+        "Diabetes Diagnostics"
+      ],
+      "outcomes": [
+        "Develop a portable, user-friendly diagnostic tool for real-time glycated albumin monitoring",
+        "Enhance glycation monitoring as a valuable alternative to traditional diabetes monitoring methods"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "814092bc-3956-4959-8465-9c25088d4a07",
+      "extracted_date": "2026-01-02T10:03:15.192578"
+    },
+    {
+      "name": "MATLAB Documentation Update",
+      "description": "Comprehensive update to the MATLAB product documentation, including new features and improvements",
+      "role": "Lead Technical Writer",
+      "start_date": "2020-01",
+      "end_date": "2023-03",
+      "technologies": [
+        "MATLAB",
+        "Simulink",
+        "LaTeX",
+        "Confluence"
+      ],
+      "outcomes": [
+        "Delivered updated documentation for MATLAB R2020a through R2023a releases",
+        "Improved documentation structure and organization for better user experience",
+        "Collaborated with engineering teams to ensure accurate and up-to-date content"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "8ec960f5-2b6e-4bed-95ef-e65049a7fa8a",
+      "extracted_date": "2026-01-02T10:04:14.182831"
+    },
+    {
+      "name": "MATLAB Installation Troubleshooter",
+      "description": "Developed a MATLAB script to automatically diagnose and provide solutions for common MATLAB installation issues",
+      "role": "Project Lead",
+      "start_date": "2021-06",
+      "end_date": "2021-09",
+      "technologies": [
+        "MATLAB",
+        "Simulink",
+        "Git",
+        "Bash Scripting"
+      ],
+      "outcomes": [
+        "Reduced MATLAB installation support requests by 30%",
+        "Improved customer satisfaction with MATLAB installation experience"
+      ],
+      "github_url": "https://github.com/username/matlab-install-troubleshooter",
+      "demo_url": null,
+      "id": "44ff02e8-44bc-460e-b490-e4f22ee211ba",
+      "extracted_date": "2026-01-02T10:05:27.822634"
+    },
+    {
+      "name": "MATLAB Installation Automation",
+      "description": "Developed a script to automate the installation of MATLAB and its associated products on multiple machines.",
+      "role": "Project Lead",
+      "start_date": "2021-09",
+      "end_date": "2022-03",
+      "technologies": [
+        "MATLAB",
+        "Bash Scripting",
+        "PowerShell"
+      ],
+      "outcomes": [
+        "Reduced installation time by 50% for IT administrators",
+        "Improved consistency of MATLAB installations across the organization"
+      ],
+      "github_url": null,
+      "demo_url": null,
+      "id": "1bdef1c2-327b-4e49-9385-3aa1d4b3d39b",
+      "extracted_date": "2026-01-02T10:06:52.245455"
+    }
+  ],
+  "job_applications": [
+    {
+      "id": "fa36c730-b000-4374-a27b-7209a3a43d49",
+      "company": "Parametric",
+      "position": "Software Engineer, Data Engine",
+      "location": "San Francisco, CA",
+      "date_applied": "2026-01-02",
+      "status": "Interested",
+      "job_url": null,
+      "application_deadline": null,
+      "description": "Building robots to automate physical labor. Role focuses on data pipelines for robot training, including data collection, processing, and management systems.",
+      "key_requirements": [
+        "Experience building robust software systems with data pipelines or video processing",
+        "Comfortable writing code in systems languages like Rust or C",
+        "Ability to work across the stack (low-level hardware to high-level data tools)",
+        "Excited to work hands-on with physical robots",
+        "Strong communication skills"
+      ],
+      "key_responsibilities": [
+        "Design and implement software systems for large-scale robotic data collection",
+        "Build tools for visualization, auto-preprocessing, and auto-labeling of robot training data",
+        "Improve data collection hardware and workflows",
+        "Work with data collection technicians to define processes",
+        "Wrangle large volumes of video and sensor data",
+        "Collaborate with ML and hardware teams"
+      ],
+      "notes": "Parametric PBC - Building robots to benefit all humans. In-person role in SF.",
+      "extracted_date": "2026-01-02T09:38:55.460122"
+    },
+    {
+      "company": "Amgen",
+      "position": "Biomedical Engineer",
+      "date_applied": "null",
+      "status": "Applied",
+      "job_url": "null",
+      "application_deadline": "null",
+      "notes": "null",
+      "id": "c7cf6168-b92c-44f2-b91a-21e947cb19c1",
+      "extracted_date": "2026-01-02T09:30:30.368137"
+    },
+    {
+      "company": "Anduril",
+      "position": "Unspecified",
+      "date_applied": null,
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "83636153-dd87-48e6-9b9b-41b57ba0a761",
+      "extracted_date": "2026-01-02T09:30:35.042239"
+    },
+    {
+      "company": "Anduril",
+      "position": "R&D Engineer",
+      "date_applied": "2023-03-15",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "0934898e-0a2e-4fb5-b911-c7465591503c",
+      "extracted_date": "2026-01-02T09:36:26.001701"
+    },
+    {
+      "company": "Epirus",
+      "position": "R&D Engineer",
+      "date_applied": "2023-03-15",
+      "status": "Applied",
+      "id": "b6f23873-5d30-416f-bea9-bf783b2987fd",
+      "extracted_date": "2026-01-02T09:36:38.980294"
+    },
+    {
+      "company": "Oklo",
+      "position": "Engineer",
+      "date_applied": "2023-03-15",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "bd0b2527-b55f-4c06-aa4d-89a27e2f1d83",
+      "extracted_date": "2026-01-02T09:36:49.037322"
+    },
+    {
+      "company": "Radiant",
+      "position": "R&D Engineer",
+      "date_applied": "2023-04-15",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "1fb93ef0-e713-44b1-a702-09c348d44373",
+      "extracted_date": "2026-01-02T09:36:58.693414"
+    },
+    {
+      "company": "3Y Health",
+      "position": "Engineering Role",
+      "date_applied": "2023-04-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "b075fda0-448d-44e9-a11a-23d028735394",
+      "extracted_date": "2026-01-02T09:37:52.166614"
+    },
+    {
+      "company": "Four Seasons",
+      "position": "Assistant Director of Residences",
+      "date_applied": "2023-03-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "e11a35a4-3534-4703-bb09-210011964c3d",
+      "extracted_date": "2026-01-02T09:38:45.874524"
+    },
+    {
+      "company": "Oura",
+      "position": "Engineering Role",
+      "date_applied": "2023-03-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "38b4d3ec-010b-4a48-acc2-557bb50fae22",
+      "extracted_date": "2026-01-02T09:39:22.592422"
+    },
+    {
+      "company": "UCSF",
+      "position": "Hiring Committee",
+      "date_applied": null,
+      "status": null,
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "d672ebf9-52d7-42b2-a8e4-0afecff8e2e4",
+      "extracted_date": "2026-01-02T09:42:10.911742"
+    },
+    {
+      "company": "Neuralink",
+      "position": "Unknown",
+      "date_applied": "2023-04-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": "",
+      "id": "2c9e023b-6755-484b-b115-3046fe09b740",
+      "extracted_date": "2026-01-02T09:42:57.294987"
+    },
+    {
+      "company": "Company Name",
+      "position": "Position Title",
+      "date_applied": "YYYY-MM-DD",
+      "status": "Applied/Interview/Offer/Rejected",
+      "job_url": "url or null",
+      "application_deadline": "YYYY-MM-DD or null",
+      "notes": "Any notes",
+      "id": "016335f7-cb84-4be1-85fa-afbdfeae7777",
+      "extracted_date": "2026-01-02T09:54:25.343045"
+    },
+    {
+      "company": "Instrumental",
+      "position": "Solutions Design Engineer",
+      "date_applied": "2023-03-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "e3cd517d-bc69-4ccc-88f0-341c3fb7940a",
+      "extracted_date": "2026-01-02T09:56:41.706065"
+    },
+    {
+      "company": "Coresite",
+      "position": "Power Solutions Manager",
+      "date_applied": "2023-03-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": "",
+      "id": "328f3a8b-0a03-4f43-b872-7e7e2345012c",
+      "extracted_date": "2026-01-02T09:56:47.526835"
+    },
+    {
+      "company": "Stanford University",
+      "position": "Master's in Bioengineering",
+      "date_applied": "2024-04-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "dae6d491-513a-4065-a72f-171f5a9df57d",
+      "extracted_date": "2026-01-02T10:01:35.694770"
+    },
+    {
+      "company": "Stanford University",
+      "position": "Master's Program in Bioengineering",
+      "date_applied": "2024-04-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": "Reached out to a former postdoc from my lab for advice on connecting with faculty members",
+      "id": "5838d7e2-92ab-444f-ac54-52a05b6167b6",
+      "extracted_date": "2026-01-02T10:02:27.122477"
+    },
+    {
+      "company": "Waymo",
+      "position": "Systems Engineer, Behavioral Requirements",
+      "date_applied": "2023-03-01",
+      "status": "Applied",
+      "job_url": null,
+      "application_deadline": null,
+      "notes": null,
+      "id": "0663db7d-4c03-464d-9bc1-4cc21d619815",
+      "extracted_date": "2026-01-02T10:03:43.407327"
+    },
+    {
+      "company": "ABC Corporation",
+      "position": "Technical Writer",
+      "date_applied": "2022-04-15",
+      "status": "Interview",
+      "job_url": "https://www.abccorp.com/careers/technical-writer",
+      "application_deadline": "2022-05-01",
+      "notes": "Waiting to hear back after initial phone interview",
+      "id": "c94a2e65-6dd8-4178-8765-894b38a7e1ff",
+      "extracted_date": "2026-01-02T10:04:14.182920"
+    },
+    {
+      "company": "XYZ Inc.",
+      "position": "Senior Technical Writer",
+      "date_applied": "2023-02-28",
+      "status": "Applied",
+      "job_url": "https://www.xyzinc.com/careers/senior-technical-writer",
+      "application_deadline": null,
+      "notes": "Submitted application online",
+      "id": "f292bdc0-b8a3-4f66-90fd-dc0fdd201a2b",
+      "extracted_date": "2026-01-02T10:04:14.183043"
+    },
+    {
+      "company": "ABC Corporation",
+      "position": "Software Engineer",
+      "date_applied": "2022-03-15",
+      "status": "Interview",
+      "job_url": "https://www.abccorp.com/careers/software-engineer",
+      "application_deadline": "2022-04-01",
+      "notes": "Waiting for second round interview",
+      "id": "d20959e4-cab6-4a52-b313-85c369506a73",
+      "extracted_date": "2026-01-02T10:05:27.822727"
+    },
+    {
+      "company": "XYZ Inc.",
+      "position": "Technical Writer",
+      "date_applied": "2022-05-01",
+      "status": "Offer",
+      "job_url": "https://www.xyzinc.com/careers/technical-writer",
+      "application_deadline": null,
+      "notes": "Accepted offer and starting next month",
+      "id": "eab73bbc-fa35-43ce-ad5f-7ef22782d946",
+      "extracted_date": "2026-01-02T10:05:27.822842"
+    }
+  ]
+}

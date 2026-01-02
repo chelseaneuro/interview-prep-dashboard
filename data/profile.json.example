@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "YYYY-MM-DDTHH:MM:SS",
+    "total_documents_processed": 0
+  },
+  "personal_info": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "phone": "(XXX) XXX-XXXX",
+    "location": "City, State",
+    "linkedin": "linkedin.com/in/yourname",
+    "github": "github.com/yourname"
+  },
+  "work_experience": [],
+  "education": [],
+  "skills": {
+    "technical": {},
+    "soft_skills": [],
+    "languages": [],
+    "certifications": []
+  },
+  "projects": [],
+  "job_applications": []
+}
